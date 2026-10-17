@@ -59,7 +59,7 @@ CREATE TABLE visitors (
 );
 
 LOAD DATA LOCAL INFILE
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/cart_items_clean.csv'
+'path/cart_items_clean.csv'
 INTO TABLE cart_items
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -77,7 +77,7 @@ IGNORE 1 LINES
 SET added_at = STR_TO_DATE(TRIM(@added_at), '%d-%m-%Y %H:%i');
 
 LOAD DATA LOCAL INFILE
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/events_clean.csv'
+'path/events_clean.csv'
 INTO TABLE events
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -98,7 +98,7 @@ SET
     transaction_id = NULLIF(TRIM(@transaction_id), '');
 
 LOAD DATA LOCAL INFILE
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/products_clean.csv'
+'path/products_clean.csv'
 INTO TABLE products
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -114,7 +114,7 @@ IGNORE 1 LINES
 );
 
 LOAD DATA LOCAL INFILE
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/sessions_clean.csv'
+'path/sessions_clean.csv'
 INTO TABLE sessions
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -131,7 +131,7 @@ IGNORE 1 LINES
 SET session_start = STR_TO_DATE(TRIM(@session_start), '%d-%m-%Y %H:%i');
 
 LOAD DATA LOCAL INFILE 
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/transactions_clean.csv'
+'path/transactions_clean.csv'
 INTO TABLE transactions
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -148,7 +148,7 @@ SET
 	transaction_date = STR_TO_DATE(TRIM(@transaction_date), '%d-%m-%Y');
 
 LOAD DATA LOCAL INFILE
-'C:/Users/admin/Desktop/Projects/Cart_Abandonment_Analysis/01_Data/cleaned/visitors_clean.csv'
+'path/visitors_clean.csv'
 INTO TABLE visitors
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
