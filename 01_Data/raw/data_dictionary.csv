@@ -1,0 +1,40 @@
+﻿table_name,column_name,sample_value,notes
+visitors,visitor_id,VIS_000001,Synthetic data; inspect values and validate before analysis.
+visitors,first_seen_date,2024-09-23,Synthetic data; inspect values and validate before analysis.
+visitors,device_type,Desktop,Synthetic data; inspect values and validate before analysis.
+visitors,traffic_source,Direct,Synthetic data; inspect values and validate before analysis.
+visitors,country,Australia,Synthetic data; inspect values and validate before analysis.
+products,product_id,PROD_00001,Synthetic data; inspect values and validate before analysis.
+products,product_name,Lotion 001,Synthetic data; inspect values and validate before analysis.
+products,category,Beauty,Synthetic data; inspect values and validate before analysis.
+products,brand,BrightPath,Synthetic data; inspect values and validate before analysis.
+products,unit_cost,13440.24,Synthetic data; inspect values and validate before analysis.
+products,unit_price,23084.08,Synthetic data; inspect values and validate before analysis.
+products,active_flag,1,Synthetic data; inspect values and validate before analysis.
+sessions,session_id,SESS_0000001,Synthetic data; inspect values and validate before analysis.
+sessions,visitor_id,VIS_000864,Synthetic data; inspect values and validate before analysis.
+sessions,session_start,2024-11-05 11:14:00,Synthetic data; inspect values and validate before analysis.
+sessions,device_type,Mobile,Synthetic data; inspect values and validate before analysis.
+sessions,traffic_source,Organic Search,Synthetic data; inspect values and validate before analysis.
+sessions,session_status,Abandoned,Synthetic data; inspect values and validate before analysis.
+events,event_id,EVT_00000001,Synthetic data; inspect values and validate before analysis.
+events,session_id,SESS_0000001,Synthetic data; inspect values and validate before analysis.
+events,visitor_id,VIS_000864,Synthetic data; inspect values and validate before analysis.
+events,event_timestamp,2024-11-05 11:14:30,Synthetic data; inspect values and validate before analysis.
+events,sequence_step,1,Synthetic data; inspect values and validate before analysis.
+events,event_type,view,Synthetic data; inspect values and validate before analysis.
+events,product_id,PROD_00020,Synthetic data; inspect values and validate before analysis.
+events,transaction_id,TXN_000001,Synthetic data; inspect values and validate before analysis.
+cart_items,cart_item_id,CART_0000001,Synthetic data; inspect values and validate before analysis.
+cart_items,session_id,SESS_0000002,Synthetic data; inspect values and validate before analysis.
+cart_items,visitor_id,VIS_001200,Synthetic data; inspect values and validate before analysis.
+cart_items,product_id,PROD_00061,Synthetic data; inspect values and validate before analysis.
+cart_items,added_at,2024-11-21 19:28:00,Synthetic data; inspect values and validate before analysis.
+cart_items,quantity,2,Synthetic data; inspect values and validate before analysis.
+cart_items,cart_item_status,Abandoned,Synthetic data; inspect values and validate before analysis.
+transactions,transaction_id,TXN_000001,Synthetic data; inspect values and validate before analysis.
+transactions,session_id,SESS_0000006,Synthetic data; inspect values and validate before analysis.
+transactions,visitor_id,VIS_000537,Synthetic data; inspect values and validate before analysis.
+transactions,transaction_date,2024-01-28,Synthetic data; inspect values and validate before analysis.
+transactions,order_value,39350.09,Synthetic data; inspect values and validate before analysis.
+transactions,payment_method,Debit Card,Synthetic data; inspect values and validate before analysis.

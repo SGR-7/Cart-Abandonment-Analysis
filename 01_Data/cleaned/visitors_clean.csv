@@ -1,0 +1,1801 @@
+﻿visitor_id,first_seen_date,device_type,traffic_source,country
+VIS_000001,23-09-2024,Desktop,Direct,Australia
+VIS_000002,09-05-2025,Tablet,Email,United Kingdom
+VIS_000003,19-03-2025,Tablet,Social,Australia
+VIS_000004,19-11-2024,Desktop,Referral,India
+VIS_000005,02-01-2025,Tablet,Paid Search,Singapore
+VIS_000006,13-10-2024,Mobile,Organic Search,United States
+VIS_000007,29-10-2024,Mobile,Referral,United States
+VIS_000008,02-06-2024,Desktop,Email,United States
+VIS_000009,03-01-2025,Mobile,Paid Search,India
+VIS_000010,21-08-2024,Tablet,Social,Singapore
+VIS_000011,12-02-2024,Desktop,Paid Search,United Kingdom
+VIS_000012,14-04-2024,Tablet,Direct,United States
+VIS_000013,28-10-2024,Mobile,Email,Singapore
+VIS_000014,08-07-2024,Tablet,Email,United Kingdom
+VIS_000015,24-11-2024,Tablet,Direct,United States
+VIS_000016,16-12-2024,Tablet,Referral,United Kingdom
+VIS_000017,05-07-2025,Tablet,Referral,United States
+VIS_000018,09-07-2024,Mobile,Social,Singapore
+VIS_000019,24-12-2024,Desktop,Referral,Singapore
+VIS_000020,07-12-2024,Desktop,Email,Australia
+VIS_000021,12-02-2025,Mobile,Paid Search,United States
+VIS_000022,15-10-2024,Mobile,Organic Search,India
+VIS_000023,22-10-2024,Mobile,Paid Search,India
+VIS_000024,21-11-2024,Tablet,Social,Singapore
+VIS_000025,10-06-2025,Mobile,Paid Search,Australia
+VIS_000026,17-06-2024,Mobile,Email,Singapore
+VIS_000027,17-06-2025,Desktop,Direct,United States
+VIS_000028,31-10-2024,Mobile,Referral,United States
+VIS_000029,18-02-2024,Desktop,Email,Singapore
+VIS_000030,21-05-2024,Tablet,Email,India
+VIS_000031,01-05-2025,Desktop,Direct,United States
+VIS_000032,10-07-2024,Tablet,Direct,Australia
+VIS_000033,16-04-2025,Desktop,Social,United States
+VIS_000034,24-05-2024,Mobile,Referral,Singapore
+VIS_000035,03-09-2024,Tablet,Paid Search,United States
+VIS_000036,14-05-2025,Tablet,Paid Search,India
+VIS_000037,06-12-2025,Tablet,Organic Search,Australia
+VIS_000038,11-06-2024,Desktop,Social,United States
+VIS_000039,18-05-2024,Desktop,Direct,Singapore
+VIS_000040,16-08-2024,Tablet,Social,United Kingdom
+VIS_000041,17-12-2024,Tablet,Email,United Kingdom
+VIS_000042,22-08-2024,Desktop,Social,India
+VIS_000043,05-12-2025,Mobile,Referral,India
+VIS_000044,04-07-2024,Mobile,Paid Search,Singapore
+VIS_000045,21-11-2024,Mobile,Organic Search,Australia
+VIS_000046,30-04-2025,Mobile,Email,United States
+VIS_000047,13-11-2025,Tablet,Email,Australia
+VIS_000048,29-06-2024,Tablet,Referral,United Kingdom
+VIS_000049,15-02-2024,Mobile,Organic Search,United States
+VIS_000050,02-10-2024,Desktop,Paid Search,United Kingdom
+VIS_000051,28-06-2025,Tablet,Direct,United Kingdom
+VIS_000052,19-10-2025,Desktop,Referral,Australia
+VIS_000053,05-12-2024,Tablet,Social,United Kingdom
+VIS_000054,21-04-2025,Desktop,Organic Search,United Kingdom
+VIS_000055,18-10-2025,Desktop,Referral,Singapore
+VIS_000056,17-01-2024,Desktop,Referral,United Kingdom
+VIS_000057,22-01-2024,Tablet,Paid Search,United Kingdom
+VIS_000058,27-03-2025,Desktop,Organic Search,United States
+VIS_000059,23-07-2025,Tablet,Social,United States
+VIS_000060,02-06-2024,Mobile,Organic Search,United States
+VIS_000061,27-12-2024,Tablet,Referral,India
+VIS_000062,13-12-2025,Desktop,Paid Search,United States
+VIS_000063,18-02-2025,Tablet,Email,United Kingdom
+VIS_000064,06-05-2025,Mobile,Organic Search,Singapore
+VIS_000065,22-08-2025,Tablet,Email,United States
+VIS_000066,02-04-2024,Mobile,Social,Singapore
+VIS_000067,08-01-2025,Desktop,Direct,Singapore
+VIS_000068,03-12-2025,Mobile,Direct,India
+VIS_000069,05-05-2024,Mobile,Paid Search,Singapore
+VIS_000070,20-03-2024,Tablet,Email,United States
+VIS_000071,28-05-2024,Desktop,Direct,United States
+VIS_000072,27-04-2024,Mobile,Organic Search,Australia
+VIS_000073,04-12-2025,Mobile,Paid Search,United States
+VIS_000074,01-11-2025,Desktop,Email,India
+VIS_000075,26-08-2024,Tablet,Organic Search,Singapore
+VIS_000076,30-01-2024,Mobile,Paid Search,India
+VIS_000077,21-05-2025,Mobile,Direct,Australia
+VIS_000078,02-04-2024,Tablet,Organic Search,United Kingdom
+VIS_000079,01-03-2025,Mobile,Organic Search,United Kingdom
+VIS_000080,28-12-2025,Desktop,Email,Singapore
+VIS_000081,05-06-2024,Mobile,Direct,India
+VIS_000082,14-08-2024,Tablet,Paid Search,Singapore
+VIS_000083,26-11-2025,Desktop,Referral,India
+VIS_000084,07-05-2025,Mobile,Direct,United States
+VIS_000085,02-02-2025,Mobile,Email,Australia
+VIS_000086,27-04-2024,Desktop,Direct,Singapore
+VIS_000087,20-06-2025,Mobile,Social,United Kingdom
+VIS_000088,07-07-2024,Mobile,Referral,India
+VIS_000089,31-01-2024,Tablet,Email,United Kingdom
+VIS_000090,21-11-2025,Desktop,Social,Singapore
+VIS_000091,19-07-2024,Mobile,Organic Search,Australia
+VIS_000092,02-06-2024,Mobile,Paid Search,Singapore
+VIS_000093,28-05-2025,Tablet,Referral,India
+VIS_000094,26-02-2025,Tablet,Social,India
+VIS_000095,14-09-2024,Tablet,Email,United Kingdom
+VIS_000096,27-02-2025,Desktop,Referral,India
+VIS_000097,07-07-2025,Tablet,Direct,United Kingdom
+VIS_000098,27-09-2025,Mobile,Paid Search,India
+VIS_000099,28-04-2024,Tablet,Email,India
+VIS_000100,10-09-2025,Mobile,Direct,India
+VIS_000101,17-02-2025,Desktop,Email,Australia
+VIS_000102,15-12-2024,Tablet,Referral,India
+VIS_000103,25-07-2025,Desktop,Email,United Kingdom
+VIS_000104,15-09-2024,Desktop,Social,United States
+VIS_000105,20-07-2024,Tablet,Organic Search,India
+VIS_000106,22-09-2025,Mobile,Social,United Kingdom
+VIS_000107,05-08-2025,Tablet,Social,Australia
+VIS_000108,19-11-2024,Tablet,Social,India
+VIS_000109,07-09-2024,Desktop,Direct,Australia
+VIS_000110,13-06-2024,Desktop,Social,United States
+VIS_000111,29-12-2024,Tablet,Organic Search,United States
+VIS_000112,23-08-2024,Mobile,Paid Search,United Kingdom
+VIS_000113,20-10-2024,Desktop,Direct,Singapore
+VIS_000114,05-08-2025,Mobile,Email,United States
+VIS_000115,15-02-2025,Tablet,Referral,Australia
+VIS_000116,24-06-2024,Tablet,Organic Search,Australia
+VIS_000117,13-12-2025,Desktop,Direct,United States
+VIS_000118,28-12-2024,Desktop,Email,Australia
+VIS_000119,06-01-2024,Desktop,Direct,Australia
+VIS_000120,20-07-2025,Tablet,Organic Search,Australia
+VIS_000121,01-02-2025,Mobile,Direct,India
+VIS_000122,05-06-2024,Tablet,Email,United States
+VIS_000123,04-02-2024,Tablet,Paid Search,India
+VIS_000124,05-06-2025,Desktop,Direct,United States
+VIS_000125,30-10-2025,Tablet,Referral,India
+VIS_000126,17-02-2025,Desktop,Social,Singapore
+VIS_000127,21-08-2025,Desktop,Paid Search,India
+VIS_000128,30-06-2025,Tablet,Email,India
+VIS_000129,03-10-2025,Tablet,Email,Singapore
+VIS_000130,25-06-2025,Tablet,Referral,United Kingdom
+VIS_000131,14-07-2024,Desktop,Organic Search,Singapore
+VIS_000132,23-03-2025,Tablet,Organic Search,Singapore
+VIS_000133,14-01-2025,Tablet,Email,India
+VIS_000134,06-12-2024,Tablet,Organic Search,United States
+VIS_000135,28-12-2024,Tablet,Organic Search,United States
+VIS_000136,09-11-2025,Desktop,Direct,India
+VIS_000137,08-06-2024,Mobile,Social,India
+VIS_000138,08-12-2024,Desktop,Social,United Kingdom
+VIS_000139,08-06-2025,Mobile,Direct,India
+VIS_000140,03-01-2025,Tablet,Referral,Singapore
+VIS_000141,03-10-2024,Tablet,Organic Search,United Kingdom
+VIS_000142,24-06-2025,Tablet,Organic Search,India
+VIS_000143,20-09-2024,Mobile,Referral,India
+VIS_000144,17-02-2024,Tablet,Email,Singapore
+VIS_000145,15-11-2025,Tablet,Paid Search,Singapore
+VIS_000146,21-07-2024,Tablet,Email,United Kingdom
+VIS_000147,23-11-2024,Tablet,Social,India
+VIS_000148,26-10-2024,Mobile,Referral,Singapore
+VIS_000149,26-07-2024,Mobile,Email,United Kingdom
+VIS_000150,27-06-2024,Desktop,Organic Search,Singapore
+VIS_000151,11-01-2024,Tablet,Paid Search,Singapore
+VIS_000152,28-03-2025,Mobile,Paid Search,Singapore
+VIS_000153,23-07-2025,Desktop,Email,United States
+VIS_000154,17-02-2025,Desktop,Social,United States
+VIS_000155,22-11-2025,Tablet,Email,United Kingdom
+VIS_000156,01-03-2024,Mobile,Referral,Australia
+VIS_000157,10-08-2024,Desktop,Direct,United States
+VIS_000158,14-06-2025,Mobile,Organic Search,India
+VIS_000159,19-10-2025,Desktop,Direct,Singapore
+VIS_000160,03-04-2024,Desktop,Direct,United States
+VIS_000161,18-07-2025,Tablet,Referral,United States
+VIS_000162,05-03-2024,Desktop,Social,India
+VIS_000163,25-03-2024,Desktop,Referral,United Kingdom
+VIS_000164,28-09-2025,Tablet,Direct,United Kingdom
+VIS_000165,14-04-2024,Tablet,Email,United Kingdom
+VIS_000166,19-08-2024,Mobile,Referral,Singapore
+VIS_000167,15-02-2025,Tablet,Direct,United Kingdom
+VIS_000168,30-09-2025,Desktop,Email,Australia
+VIS_000169,10-12-2025,Mobile,Social,United Kingdom
+VIS_000170,24-12-2024,Tablet,Referral,India
+VIS_000171,04-08-2025,Tablet,Social,United Kingdom
+VIS_000172,21-08-2025,Mobile,Paid Search,India
+VIS_000173,03-03-2025,Tablet,Social,Australia
+VIS_000174,19-09-2025,Desktop,Referral,United States
+VIS_000175,06-09-2025,Desktop,Social,India
+VIS_000176,15-11-2024,Desktop,Organic Search,Singapore
+VIS_000177,18-05-2025,Mobile,Email,United States
+VIS_000178,19-04-2024,Desktop,Direct,United States
+VIS_000179,17-10-2024,Mobile,Social,United States
+VIS_000180,20-08-2025,Mobile,Organic Search,United Kingdom
+VIS_000181,18-04-2024,Mobile,Social,Singapore
+VIS_000182,04-06-2024,Mobile,Paid Search,United States
+VIS_000183,07-03-2025,Mobile,Paid Search,Singapore
+VIS_000184,31-08-2024,Mobile,Direct,India
+VIS_000185,06-07-2024,Tablet,Referral,Australia
+VIS_000186,29-11-2025,Mobile,Social,United Kingdom
+VIS_000187,02-11-2025,Tablet,Social,India
+VIS_000188,18-04-2024,Desktop,Paid Search,Australia
+VIS_000189,16-03-2024,Desktop,Direct,United States
+VIS_000190,04-01-2025,Tablet,Email,United States
+VIS_000191,17-07-2025,Desktop,Referral,United Kingdom
+VIS_000192,23-07-2025,Desktop,Email,United States
+VIS_000193,18-07-2024,Mobile,Organic Search,India
+VIS_000194,28-02-2025,Desktop,Email,Singapore
+VIS_000195,29-08-2025,Desktop,Organic Search,India
+VIS_000196,08-12-2024,Mobile,Referral,Australia
+VIS_000197,22-01-2024,Tablet,Email,United States
+VIS_000198,25-12-2025,Mobile,Paid Search,Singapore
+VIS_000199,09-07-2025,Tablet,Referral,Singapore
+VIS_000200,30-06-2025,Tablet,Organic Search,Singapore
+VIS_000201,06-01-2024,Desktop,Social,India
+VIS_000202,02-11-2024,Mobile,Referral,United Kingdom
+VIS_000203,09-04-2024,Desktop,Referral,Singapore
+VIS_000204,10-08-2025,Tablet,Direct,Singapore
+VIS_000205,01-05-2025,Mobile,Social,Australia
+VIS_000206,10-05-2024,Tablet,Organic Search,United States
+VIS_000207,09-09-2025,Mobile,Paid Search,Australia
+VIS_000208,31-05-2025,Tablet,Referral,United Kingdom
+VIS_000209,16-02-2024,Mobile,Referral,India
+VIS_000210,24-02-2025,Tablet,Organic Search,Australia
+VIS_000211,13-10-2024,Mobile,Email,Australia
+VIS_000212,06-06-2025,Mobile,Referral,United Kingdom
+VIS_000213,17-12-2024,Tablet,Referral,Australia
+VIS_000214,21-11-2025,Desktop,Paid Search,India
+VIS_000215,26-04-2024,Tablet,Email,Singapore
+VIS_000216,23-06-2024,Tablet,Organic Search,Singapore
+VIS_000217,10-09-2024,Mobile,Referral,Australia
+VIS_000218,08-02-2024,Tablet,Direct,Australia
+VIS_000219,03-11-2024,Desktop,Paid Search,United States
+VIS_000220,26-03-2024,Tablet,Referral,Australia
+VIS_000221,20-07-2025,Desktop,Paid Search,Singapore
+VIS_000222,12-12-2024,Tablet,Social,Australia
+VIS_000223,17-04-2025,Tablet,Paid Search,Australia
+VIS_000224,08-04-2025,Tablet,Social,India
+VIS_000225,10-08-2024,Desktop,Social,Singapore
+VIS_000226,27-07-2025,Tablet,Organic Search,United States
+VIS_000227,11-08-2024,Mobile,Paid Search,United States
+VIS_000228,07-12-2024,Desktop,Social,Singapore
+VIS_000229,06-05-2025,Tablet,Social,Singapore
+VIS_000230,14-11-2025,Tablet,Email,Australia
+VIS_000231,07-09-2025,Desktop,Organic Search,United States
+VIS_000232,06-07-2024,Mobile,Organic Search,United Kingdom
+VIS_000233,06-11-2024,Desktop,Social,Singapore
+VIS_000234,19-09-2025,Mobile,Paid Search,United Kingdom
+VIS_000235,17-05-2025,Mobile,Referral,United Kingdom
+VIS_000236,02-10-2024,Mobile,Paid Search,United States
+VIS_000237,25-10-2025,Mobile,Direct,Australia
+VIS_000238,10-08-2025,Tablet,Email,Singapore
+VIS_000239,28-11-2024,Tablet,Paid Search,Singapore
+VIS_000240,16-12-2025,Tablet,Referral,Australia
+VIS_000241,25-07-2025,Desktop,Email,India
+VIS_000242,17-09-2024,Tablet,Organic Search,Australia
+VIS_000243,22-08-2025,Desktop,Direct,India
+VIS_000244,31-03-2024,Desktop,Referral,Singapore
+VIS_000245,23-07-2025,Tablet,Social,India
+VIS_000246,04-01-2024,Mobile,Referral,India
+VIS_000247,30-06-2025,Desktop,Referral,United Kingdom
+VIS_000248,03-01-2025,Tablet,Paid Search,Australia
+VIS_000249,11-10-2024,Mobile,Social,India
+VIS_000250,11-05-2025,Tablet,Social,Singapore
+VIS_000251,30-07-2025,Mobile,Organic Search,Singapore
+VIS_000252,13-04-2024,Tablet,Email,United States
+VIS_000253,15-08-2025,Desktop,Paid Search,India
+VIS_000254,15-10-2024,Desktop,Paid Search,India
+VIS_000255,14-09-2025,Desktop,Social,Singapore
+VIS_000256,14-04-2024,Desktop,Email,Australia
+VIS_000257,06-03-2025,Desktop,Referral,India
+VIS_000258,23-02-2024,Desktop,Paid Search,India
+VIS_000259,02-08-2024,Mobile,Referral,United Kingdom
+VIS_000260,16-12-2024,Tablet,Referral,United States
+VIS_000261,02-04-2025,Mobile,Referral,Singapore
+VIS_000262,09-06-2024,Tablet,Social,Singapore
+VIS_000263,12-05-2025,Mobile,Paid Search,India
+VIS_000264,11-12-2024,Desktop,Direct,United States
+VIS_000265,15-01-2025,Mobile,Referral,United States
+VIS_000266,24-06-2025,Desktop,Direct,India
+VIS_000267,24-10-2024,Tablet,Direct,Australia
+VIS_000268,22-12-2025,Desktop,Organic Search,Singapore
+VIS_000269,24-10-2024,Mobile,Referral,India
+VIS_000270,29-01-2025,Tablet,Direct,United Kingdom
+VIS_000271,14-03-2024,Desktop,Email,Australia
+VIS_000272,08-04-2025,Tablet,Email,Australia
+VIS_000273,26-03-2024,Desktop,Social,Singapore
+VIS_000274,30-08-2024,Mobile,Referral,India
+VIS_000275,26-01-2025,Mobile,Referral,Australia
+VIS_000276,24-05-2025,Tablet,Referral,Singapore
+VIS_000277,14-10-2024,Desktop,Social,United States
+VIS_000278,30-03-2024,Tablet,Referral,Australia
+VIS_000279,07-02-2024,Mobile,Organic Search,United Kingdom
+VIS_000280,03-02-2025,Tablet,Referral,Singapore
+VIS_000281,12-05-2025,Mobile,Paid Search,Singapore
+VIS_000282,18-03-2024,Mobile,Social,Singapore
+VIS_000283,15-09-2024,Mobile,Referral,India
+VIS_000284,26-04-2024,Mobile,Organic Search,United Kingdom
+VIS_000285,13-10-2024,Tablet,Email,United States
+VIS_000286,03-07-2024,Mobile,Email,United States
+VIS_000287,20-08-2025,Tablet,Paid Search,United States
+VIS_000288,28-05-2024,Desktop,Referral,India
+VIS_000289,24-10-2024,Mobile,Direct,Singapore
+VIS_000290,04-10-2024,Mobile,Organic Search,India
+VIS_000291,08-11-2024,Tablet,Direct,Singapore
+VIS_000292,11-01-2024,Desktop,Social,United States
+VIS_000293,26-06-2025,Tablet,Organic Search,India
+VIS_000294,18-09-2025,Mobile,Email,Australia
+VIS_000295,25-08-2024,Desktop,Referral,Singapore
+VIS_000296,04-02-2025,Mobile,Direct,United Kingdom
+VIS_000297,20-11-2024,Mobile,Referral,Singapore
+VIS_000298,04-10-2025,Tablet,Social,United Kingdom
+VIS_000299,04-10-2024,Tablet,Referral,India
+VIS_000300,09-11-2024,Desktop,Paid Search,Singapore
+VIS_000301,06-08-2025,Tablet,Referral,Singapore
+VIS_000302,26-03-2024,Desktop,Paid Search,India
+VIS_000303,02-03-2024,Desktop,Referral,India
+VIS_000304,21-02-2025,Mobile,Direct,Singapore
+VIS_000305,02-03-2025,Tablet,Referral,Singapore
+VIS_000306,05-12-2025,Tablet,Direct,United States
+VIS_000307,27-03-2025,Desktop,Direct,United States
+VIS_000308,30-03-2024,Tablet,Email,United States
+VIS_000309,22-01-2025,Mobile,Social,India
+VIS_000310,12-07-2024,Desktop,Social,United States
+VIS_000311,26-01-2024,Desktop,Organic Search,India
+VIS_000312,10-12-2024,Mobile,Paid Search,United States
+VIS_000313,24-07-2025,Tablet,Email,United States
+VIS_000314,03-07-2025,Desktop,Direct,Australia
+VIS_000315,11-03-2024,Mobile,Organic Search,India
+VIS_000316,03-03-2025,Tablet,Referral,Singapore
+VIS_000317,03-08-2024,Desktop,Email,Australia
+VIS_000318,07-09-2024,Tablet,Email,Singapore
+VIS_000319,03-08-2024,Tablet,Social,India
+VIS_000320,09-07-2024,Tablet,Email,India
+VIS_000321,16-06-2025,Tablet,Paid Search,United States
+VIS_000322,28-12-2024,Desktop,Paid Search,India
+VIS_000323,03-04-2025,Mobile,Organic Search,India
+VIS_000324,09-06-2024,Desktop,Referral,United Kingdom
+VIS_000325,19-11-2025,Tablet,Email,United States
+VIS_000326,05-04-2025,Tablet,Paid Search,Singapore
+VIS_000327,03-04-2025,Mobile,Referral,United Kingdom
+VIS_000328,31-10-2024,Mobile,Email,United Kingdom
+VIS_000329,30-12-2025,Mobile,Social,India
+VIS_000330,17-09-2024,Tablet,Email,United States
+VIS_000331,29-03-2025,Tablet,Social,Australia
+VIS_000332,05-02-2025,Tablet,Email,United Kingdom
+VIS_000333,27-03-2025,Mobile,Paid Search,India
+VIS_000334,18-05-2024,Tablet,Social,India
+VIS_000335,20-04-2024,Mobile,Referral,United Kingdom
+VIS_000336,10-02-2025,Desktop,Paid Search,Australia
+VIS_000337,29-08-2024,Mobile,Direct,Australia
+VIS_000338,01-07-2025,Desktop,Organic Search,United Kingdom
+VIS_000339,25-03-2025,Desktop,Paid Search,United Kingdom
+VIS_000340,06-09-2024,Desktop,Social,United States
+VIS_000341,01-10-2025,Tablet,Referral,United Kingdom
+VIS_000342,12-02-2024,Tablet,Email,Australia
+VIS_000343,26-12-2025,Desktop,Organic Search,India
+VIS_000344,13-09-2025,Mobile,Paid Search,United States
+VIS_000345,07-11-2024,Mobile,Referral,Australia
+VIS_000346,14-01-2025,Tablet,Direct,India
+VIS_000347,28-11-2024,Mobile,Paid Search,Australia
+VIS_000348,07-03-2025,Mobile,Referral,Singapore
+VIS_000349,24-11-2024,Desktop,Referral,Singapore
+VIS_000350,25-12-2024,Mobile,Social,United Kingdom
+VIS_000351,06-08-2024,Desktop,Organic Search,United States
+VIS_000352,30-05-2025,Desktop,Social,India
+VIS_000353,14-07-2024,Mobile,Referral,United Kingdom
+VIS_000354,25-06-2025,Desktop,Paid Search,Australia
+VIS_000355,24-01-2025,Mobile,Organic Search,United Kingdom
+VIS_000356,03-01-2025,Tablet,Direct,Singapore
+VIS_000357,18-07-2025,Desktop,Social,Australia
+VIS_000358,22-04-2025,Tablet,Referral,United States
+VIS_000359,26-01-2024,Mobile,Referral,Singapore
+VIS_000360,09-04-2025,Desktop,Referral,Singapore
+VIS_000361,30-09-2025,Tablet,Direct,India
+VIS_000362,04-03-2024,Mobile,Organic Search,India
+VIS_000363,03-07-2025,Mobile,Direct,United States
+VIS_000364,30-01-2024,Desktop,Paid Search,Singapore
+VIS_000365,09-12-2024,Tablet,Direct,United Kingdom
+VIS_000366,14-02-2024,Tablet,Paid Search,India
+VIS_000367,12-01-2024,Desktop,Direct,India
+VIS_000368,01-12-2025,Mobile,Direct,Australia
+VIS_000369,20-05-2025,Tablet,Direct,India
+VIS_000370,27-07-2025,Desktop,Social,United States
+VIS_000371,21-02-2025,Mobile,Social,Australia
+VIS_000372,08-10-2025,Tablet,Paid Search,Australia
+VIS_000373,20-06-2024,Tablet,Direct,United Kingdom
+VIS_000374,03-03-2024,Mobile,Direct,United Kingdom
+VIS_000375,08-02-2024,Desktop,Paid Search,United Kingdom
+VIS_000376,25-07-2025,Desktop,Referral,India
+VIS_000377,15-03-2025,Mobile,Paid Search,United Kingdom
+VIS_000378,30-05-2024,Desktop,Social,United Kingdom
+VIS_000379,17-12-2025,Mobile,Email,Singapore
+VIS_000380,12-11-2025,Mobile,Referral,Australia
+VIS_000381,28-03-2025,Mobile,Organic Search,United States
+VIS_000382,12-12-2025,Mobile,Referral,India
+VIS_000383,22-12-2025,Tablet,Direct,United Kingdom
+VIS_000384,22-06-2024,Desktop,Referral,United States
+VIS_000385,02-04-2024,Mobile,Organic Search,United Kingdom
+VIS_000386,25-11-2025,Tablet,Paid Search,India
+VIS_000387,03-06-2025,Mobile,Paid Search,Singapore
+VIS_000388,17-07-2024,Mobile,Social,Australia
+VIS_000389,27-05-2024,Mobile,Email,United States
+VIS_000390,25-05-2024,Desktop,Organic Search,India
+VIS_000391,14-12-2025,Mobile,Email,United States
+VIS_000392,22-06-2024,Desktop,Direct,India
+VIS_000393,15-10-2024,Tablet,Social,Australia
+VIS_000394,01-09-2024,Tablet,Paid Search,United Kingdom
+VIS_000395,05-08-2024,Desktop,Email,India
+VIS_000396,01-04-2025,Desktop,Paid Search,Singapore
+VIS_000397,19-01-2024,Tablet,Direct,Singapore
+VIS_000398,20-12-2024,Desktop,Organic Search,United States
+VIS_000399,20-05-2024,Desktop,Referral,United States
+VIS_000400,11-01-2024,Tablet,Referral,United States
+VIS_000401,24-05-2025,Desktop,Referral,India
+VIS_000402,19-01-2024,Mobile,Paid Search,Australia
+VIS_000403,14-12-2024,Tablet,Email,Singapore
+VIS_000404,11-09-2025,Tablet,Email,Singapore
+VIS_000405,08-05-2025,Tablet,Email,Singapore
+VIS_000406,02-05-2024,Mobile,Email,United States
+VIS_000407,26-09-2025,Mobile,Paid Search,United States
+VIS_000408,08-07-2025,Mobile,Referral,Singapore
+VIS_000409,05-08-2025,Desktop,Email,United States
+VIS_000410,15-07-2024,Tablet,Email,Australia
+VIS_000411,13-02-2025,Mobile,Organic Search,Australia
+VIS_000412,17-06-2024,Tablet,Direct,Australia
+VIS_000413,12-05-2024,Desktop,Social,Australia
+VIS_000414,12-10-2025,Mobile,Organic Search,Singapore
+VIS_000415,01-07-2024,Tablet,Referral,Singapore
+VIS_000416,19-04-2024,Mobile,Organic Search,United Kingdom
+VIS_000417,12-09-2024,Tablet,Email,India
+VIS_000418,04-04-2025,Tablet,Paid Search,Australia
+VIS_000419,17-10-2024,Desktop,Referral,United Kingdom
+VIS_000420,11-06-2024,Mobile,Paid Search,United States
+VIS_000421,03-10-2024,Desktop,Email,United Kingdom
+VIS_000422,25-09-2025,Desktop,Referral,United Kingdom
+VIS_000423,17-11-2025,Tablet,Referral,United Kingdom
+VIS_000424,23-01-2025,Desktop,Direct,India
+VIS_000425,07-09-2025,Desktop,Email,Singapore
+VIS_000426,06-02-2025,Mobile,Paid Search,India
+VIS_000427,05-07-2024,Desktop,Organic Search,United States
+VIS_000428,14-12-2025,Tablet,Direct,United States
+VIS_000429,03-10-2024,Tablet,Email,Australia
+VIS_000430,07-12-2025,Tablet,Social,Singapore
+VIS_000431,08-11-2025,Desktop,Email,India
+VIS_000432,15-02-2025,Desktop,Social,Australia
+VIS_000433,09-08-2025,Tablet,Social,Singapore
+VIS_000434,06-01-2025,Tablet,Email,United States
+VIS_000435,27-10-2025,Tablet,Paid Search,India
+VIS_000436,31-08-2025,Tablet,Direct,Singapore
+VIS_000437,25-02-2024,Tablet,Organic Search,United States
+VIS_000438,22-11-2024,Mobile,Referral,Australia
+VIS_000439,27-10-2024,Mobile,Paid Search,United Kingdom
+VIS_000440,07-11-2025,Tablet,Social,Australia
+VIS_000441,29-11-2025,Mobile,Email,United States
+VIS_000442,25-11-2025,Tablet,Organic Search,Singapore
+VIS_000443,27-12-2024,Tablet,Direct,United States
+VIS_000444,22-11-2024,Mobile,Social,Singapore
+VIS_000445,10-01-2025,Desktop,Paid Search,United Kingdom
+VIS_000446,28-07-2025,Mobile,Email,India
+VIS_000447,28-11-2024,Tablet,Email,India
+VIS_000448,28-11-2024,Mobile,Email,Australia
+VIS_000449,22-03-2024,Desktop,Direct,Australia
+VIS_000450,14-04-2025,Tablet,Referral,India
+VIS_000451,02-09-2025,Desktop,Email,Australia
+VIS_000452,28-11-2025,Mobile,Organic Search,United States
+VIS_000453,15-07-2025,Mobile,Paid Search,United States
+VIS_000454,15-05-2025,Tablet,Social,Australia
+VIS_000455,11-02-2024,Desktop,Referral,India
+VIS_000456,08-12-2025,Mobile,Organic Search,Australia
+VIS_000457,10-12-2024,Mobile,Social,Australia
+VIS_000458,22-05-2024,Mobile,Paid Search,United States
+VIS_000459,24-10-2025,Tablet,Organic Search,Singapore
+VIS_000460,28-01-2024,Desktop,Paid Search,Australia
+VIS_000461,03-06-2024,Desktop,Paid Search,Singapore
+VIS_000462,02-02-2025,Mobile,Direct,United States
+VIS_000463,16-03-2025,Tablet,Organic Search,United States
+VIS_000464,22-10-2025,Mobile,Email,United Kingdom
+VIS_000465,19-12-2024,Desktop,Referral,Australia
+VIS_000466,13-01-2025,Desktop,Direct,India
+VIS_000467,24-08-2025,Mobile,Organic Search,India
+VIS_000468,05-05-2025,Mobile,Email,Singapore
+VIS_000469,08-05-2024,Tablet,Organic Search,India
+VIS_000470,03-05-2025,Desktop,Social,United Kingdom
+VIS_000471,09-11-2025,Tablet,Referral,Singapore
+VIS_000472,30-08-2025,Desktop,Organic Search,Australia
+VIS_000473,24-04-2025,Desktop,Paid Search,United States
+VIS_000474,20-04-2025,Tablet,Referral,United States
+VIS_000475,22-01-2024,Desktop,Referral,India
+VIS_000476,27-06-2024,Tablet,Email,United Kingdom
+VIS_000477,28-12-2024,Tablet,Referral,Singapore
+VIS_000478,02-05-2025,Mobile,Paid Search,United Kingdom
+VIS_000479,28-10-2025,Mobile,Direct,Australia
+VIS_000480,28-12-2024,Desktop,Paid Search,Singapore
+VIS_000481,17-08-2025,Mobile,Organic Search,United States
+VIS_000482,08-02-2025,Desktop,Social,India
+VIS_000483,15-06-2025,Mobile,Referral,Singapore
+VIS_000484,02-11-2024,Tablet,Paid Search,India
+VIS_000485,01-12-2024,Mobile,Social,United States
+VIS_000486,07-07-2025,Mobile,Direct,India
+VIS_000487,27-04-2025,Mobile,Referral,India
+VIS_000488,23-01-2024,Tablet,Email,United States
+VIS_000489,24-11-2025,Desktop,Direct,Australia
+VIS_000490,14-08-2025,Desktop,Organic Search,United States
+VIS_000491,09-04-2024,Desktop,Email,United States
+VIS_000492,15-05-2024,Tablet,Direct,United States
+VIS_000493,29-07-2024,Mobile,Organic Search,United States
+VIS_000494,13-09-2025,Desktop,Email,Singapore
+VIS_000495,29-05-2024,Tablet,Paid Search,Australia
+VIS_000496,04-08-2024,Mobile,Referral,Australia
+VIS_000497,12-09-2024,Tablet,Direct,United Kingdom
+VIS_000498,04-04-2025,Mobile,Email,United Kingdom
+VIS_000499,15-10-2024,Tablet,Social,Australia
+VIS_000500,09-05-2025,Desktop,Direct,United States
+VIS_000501,27-10-2025,Tablet,Direct,India
+VIS_000502,16-10-2025,Mobile,Referral,Singapore
+VIS_000503,04-05-2025,Desktop,Direct,Singapore
+VIS_000504,12-08-2024,Desktop,Social,Australia
+VIS_000505,01-08-2025,Mobile,Email,India
+VIS_000506,30-12-2025,Tablet,Social,United States
+VIS_000507,14-07-2024,Tablet,Organic Search,Australia
+VIS_000508,07-02-2025,Desktop,Organic Search,United States
+VIS_000509,22-08-2024,Desktop,Social,Singapore
+VIS_000510,24-10-2024,Desktop,Email,India
+VIS_000511,10-10-2025,Mobile,Email,Australia
+VIS_000512,01-04-2024,Desktop,Paid Search,United Kingdom
+VIS_000513,27-02-2024,Mobile,Social,Singapore
+VIS_000514,07-06-2024,Tablet,Direct,India
+VIS_000515,04-08-2024,Tablet,Paid Search,India
+VIS_000516,11-05-2024,Tablet,Email,United Kingdom
+VIS_000517,31-12-2024,Desktop,Social,United Kingdom
+VIS_000518,04-07-2024,Desktop,Paid Search,United States
+VIS_000519,20-11-2024,Desktop,Direct,United Kingdom
+VIS_000520,01-05-2024,Desktop,Paid Search,United Kingdom
+VIS_000521,05-08-2025,Mobile,Organic Search,India
+VIS_000522,08-04-2024,Desktop,Direct,Australia
+VIS_000523,02-07-2025,Desktop,Organic Search,United States
+VIS_000524,23-12-2024,Mobile,Referral,Singapore
+VIS_000525,31-12-2024,Desktop,Direct,India
+VIS_000526,23-05-2024,Desktop,Referral,Singapore
+VIS_000527,16-03-2025,Desktop,Direct,India
+VIS_000528,05-12-2025,Mobile,Organic Search,United States
+VIS_000529,13-02-2025,Mobile,Organic Search,United States
+VIS_000530,04-08-2024,Desktop,Email,India
+VIS_000531,16-11-2025,Mobile,Social,United Kingdom
+VIS_000532,09-06-2025,Tablet,Paid Search,India
+VIS_000533,06-11-2024,Desktop,Email,United Kingdom
+VIS_000534,22-11-2024,Tablet,Social,United Kingdom
+VIS_000535,03-04-2024,Mobile,Organic Search,India
+VIS_000536,21-05-2025,Tablet,Referral,Singapore
+VIS_000537,21-06-2024,Mobile,Email,Australia
+VIS_000538,09-02-2024,Desktop,Email,Australia
+VIS_000539,31-05-2024,Tablet,Email,United States
+VIS_000540,15-07-2024,Mobile,Paid Search,United States
+VIS_000541,05-03-2025,Desktop,Email,United Kingdom
+VIS_000542,05-06-2024,Tablet,Social,Australia
+VIS_000543,30-01-2024,Mobile,Paid Search,Singapore
+VIS_000544,01-07-2025,Tablet,Social,United States
+VIS_000545,08-07-2024,Tablet,Email,Singapore
+VIS_000546,11-10-2025,Mobile,Paid Search,Singapore
+VIS_000547,20-09-2025,Desktop,Email,United Kingdom
+VIS_000548,12-03-2025,Tablet,Referral,Australia
+VIS_000549,20-02-2024,Desktop,Referral,United Kingdom
+VIS_000550,14-04-2025,Tablet,Organic Search,Singapore
+VIS_000551,11-05-2025,Mobile,Paid Search,United Kingdom
+VIS_000552,01-07-2025,Tablet,Organic Search,Australia
+VIS_000553,13-09-2025,Desktop,Referral,United States
+VIS_000554,02-03-2024,Desktop,Direct,United Kingdom
+VIS_000555,10-12-2025,Tablet,Direct,Australia
+VIS_000556,19-12-2024,Desktop,Direct,Singapore
+VIS_000557,28-09-2025,Mobile,Referral,United Kingdom
+VIS_000558,01-12-2024,Desktop,Email,Australia
+VIS_000559,21-10-2025,Desktop,Paid Search,United Kingdom
+VIS_000560,16-06-2025,Tablet,Email,United States
+VIS_000561,17-08-2024,Tablet,Paid Search,Singapore
+VIS_000562,11-11-2025,Desktop,Direct,Singapore
+VIS_000563,10-03-2025,Mobile,Organic Search,India
+VIS_000564,16-06-2024,Desktop,Email,Singapore
+VIS_000565,22-06-2025,Mobile,Direct,Singapore
+VIS_000566,25-03-2025,Tablet,Email,Singapore
+VIS_000567,14-09-2025,Desktop,Organic Search,United States
+VIS_000568,20-03-2025,Tablet,Direct,Singapore
+VIS_000569,16-09-2025,Desktop,Referral,United Kingdom
+VIS_000570,13-05-2024,Desktop,Email,United States
+VIS_000571,04-10-2024,Mobile,Social,United States
+VIS_000572,02-01-2025,Mobile,Direct,United Kingdom
+VIS_000573,25-09-2024,Tablet,Social,India
+VIS_000574,31-07-2024,Desktop,Paid Search,Singapore
+VIS_000575,04-09-2025,Tablet,Social,United States
+VIS_000576,16-10-2024,Desktop,Social,Australia
+VIS_000577,02-08-2025,Mobile,Direct,Singapore
+VIS_000578,08-05-2025,Mobile,Direct,United Kingdom
+VIS_000579,17-02-2025,Tablet,Direct,Singapore
+VIS_000580,07-05-2024,Mobile,Referral,India
+VIS_000581,12-04-2024,Tablet,Direct,United States
+VIS_000582,27-07-2025,Tablet,Social,United Kingdom
+VIS_000583,29-07-2024,Tablet,Referral,United Kingdom
+VIS_000584,31-08-2025,Desktop,Email,Singapore
+VIS_000585,30-01-2025,Tablet,Social,India
+VIS_000586,06-09-2025,Desktop,Referral,United Kingdom
+VIS_000587,22-11-2024,Desktop,Paid Search,India
+VIS_000588,25-06-2025,Mobile,Organic Search,India
+VIS_000589,07-02-2024,Mobile,Referral,Singapore
+VIS_000590,22-04-2024,Mobile,Email,United States
+VIS_000591,22-04-2024,Mobile,Email,India
+VIS_000592,10-01-2024,Tablet,Organic Search,India
+VIS_000593,16-08-2024,Mobile,Paid Search,Singapore
+VIS_000594,17-02-2024,Desktop,Referral,United Kingdom
+VIS_000595,31-08-2025,Tablet,Direct,United States
+VIS_000596,30-10-2025,Tablet,Social,Australia
+VIS_000597,17-09-2024,Desktop,Paid Search,United Kingdom
+VIS_000598,19-02-2025,Tablet,Email,United States
+VIS_000599,06-02-2024,Desktop,Email,United Kingdom
+VIS_000600,12-07-2025,Desktop,Paid Search,India
+VIS_000601,07-06-2025,Desktop,Paid Search,United States
+VIS_000602,09-12-2024,Tablet,Social,United States
+VIS_000603,06-11-2024,Desktop,Organic Search,Australia
+VIS_000604,05-02-2024,Tablet,Email,Singapore
+VIS_000605,25-02-2024,Desktop,Social,India
+VIS_000606,28-03-2025,Mobile,Paid Search,Singapore
+VIS_000607,19-06-2025,Tablet,Direct,Australia
+VIS_000608,03-08-2025,Mobile,Organic Search,India
+VIS_000609,17-05-2025,Tablet,Email,United Kingdom
+VIS_000610,24-03-2024,Desktop,Direct,Singapore
+VIS_000611,25-04-2025,Mobile,Organic Search,United States
+VIS_000612,24-11-2024,Tablet,Organic Search,United Kingdom
+VIS_000613,11-09-2024,Mobile,Social,United Kingdom
+VIS_000614,03-08-2024,Desktop,Paid Search,United States
+VIS_000615,20-07-2024,Mobile,Paid Search,India
+VIS_000616,21-07-2025,Tablet,Referral,India
+VIS_000617,08-07-2024,Tablet,Email,United States
+VIS_000618,12-09-2025,Tablet,Paid Search,Singapore
+VIS_000619,21-03-2024,Tablet,Organic Search,India
+VIS_000620,09-04-2024,Mobile,Paid Search,Singapore
+VIS_000621,02-10-2024,Mobile,Organic Search,Australia
+VIS_000622,23-05-2024,Mobile,Social,United States
+VIS_000623,06-02-2025,Tablet,Email,Australia
+VIS_000624,08-10-2025,Tablet,Referral,Singapore
+VIS_000625,26-10-2025,Desktop,Paid Search,Australia
+VIS_000626,16-07-2025,Tablet,Organic Search,Singapore
+VIS_000627,09-06-2024,Desktop,Direct,India
+VIS_000628,21-11-2024,Desktop,Paid Search,United Kingdom
+VIS_000629,09-07-2025,Mobile,Direct,India
+VIS_000630,28-08-2025,Desktop,Direct,Singapore
+VIS_000631,15-07-2025,Mobile,Referral,United States
+VIS_000632,14-08-2025,Tablet,Organic Search,Singapore
+VIS_000633,15-07-2025,Tablet,Organic Search,Australia
+VIS_000634,04-01-2024,Tablet,Organic Search,India
+VIS_000635,18-01-2025,Tablet,Organic Search,Singapore
+VIS_000636,21-04-2025,Desktop,Organic Search,Australia
+VIS_000637,01-11-2024,Tablet,Social,United Kingdom
+VIS_000638,06-10-2025,Tablet,Social,Australia
+VIS_000639,04-10-2025,Tablet,Direct,United Kingdom
+VIS_000640,29-03-2024,Desktop,Referral,United Kingdom
+VIS_000641,23-07-2025,Tablet,Organic Search,United States
+VIS_000642,06-01-2025,Desktop,Organic Search,United States
+VIS_000643,24-02-2025,Tablet,Referral,United States
+VIS_000644,18-10-2025,Tablet,Referral,United Kingdom
+VIS_000645,17-01-2024,Mobile,Social,United States
+VIS_000646,07-03-2025,Desktop,Paid Search,Singapore
+VIS_000647,16-12-2024,Tablet,Social,United Kingdom
+VIS_000648,22-12-2025,Desktop,Paid Search,Singapore
+VIS_000649,09-07-2024,Desktop,Paid Search,India
+VIS_000650,17-10-2025,Tablet,Organic Search,United States
+VIS_000651,05-06-2024,Tablet,Referral,United States
+VIS_000652,28-06-2025,Tablet,Social,United Kingdom
+VIS_000653,29-06-2024,Tablet,Direct,Singapore
+VIS_000654,02-04-2024,Mobile,Referral,Australia
+VIS_000655,22-07-2025,Mobile,Email,Australia
+VIS_000656,17-05-2024,Mobile,Social,United States
+VIS_000657,21-04-2024,Desktop,Email,United Kingdom
+VIS_000658,11-07-2024,Mobile,Email,Singapore
+VIS_000659,21-07-2025,Tablet,Referral,United States
+VIS_000660,24-11-2024,Tablet,Paid Search,India
+VIS_000661,30-11-2024,Mobile,Email,Singapore
+VIS_000662,08-11-2025,Tablet,Direct,Australia
+VIS_000663,18-01-2025,Tablet,Referral,United States
+VIS_000664,03-06-2024,Desktop,Email,United Kingdom
+VIS_000665,06-10-2024,Tablet,Paid Search,United States
+VIS_000666,01-08-2025,Tablet,Email,Australia
+VIS_000667,28-09-2024,Mobile,Organic Search,Australia
+VIS_000668,09-08-2025,Desktop,Social,Australia
+VIS_000669,20-09-2025,Mobile,Organic Search,Australia
+VIS_000670,28-10-2024,Desktop,Referral,United Kingdom
+VIS_000671,28-08-2024,Tablet,Email,India
+VIS_000672,22-03-2024,Tablet,Social,India
+VIS_000673,11-12-2024,Desktop,Organic Search,India
+VIS_000674,22-12-2024,Mobile,Email,Australia
+VIS_000675,02-12-2024,Desktop,Direct,Australia
+VIS_000676,26-03-2024,Tablet,Paid Search,United Kingdom
+VIS_000677,16-01-2025,Tablet,Referral,Singapore
+VIS_000678,08-04-2025,Desktop,Email,United Kingdom
+VIS_000679,07-02-2025,Tablet,Organic Search,Singapore
+VIS_000680,28-03-2024,Mobile,Direct,Australia
+VIS_000681,03-09-2024,Mobile,Paid Search,Australia
+VIS_000682,11-06-2024,Desktop,Paid Search,Australia
+VIS_000683,20-06-2025,Desktop,Paid Search,India
+VIS_000684,08-04-2025,Mobile,Organic Search,United Kingdom
+VIS_000685,16-11-2025,Tablet,Organic Search,Australia
+VIS_000686,24-07-2025,Tablet,Direct,Australia
+VIS_000687,23-06-2025,Mobile,Paid Search,United Kingdom
+VIS_000688,09-11-2025,Tablet,Paid Search,United Kingdom
+VIS_000689,11-04-2024,Desktop,Social,Singapore
+VIS_000690,10-12-2024,Tablet,Email,United States
+VIS_000691,10-08-2025,Mobile,Email,India
+VIS_000692,25-11-2024,Tablet,Organic Search,United Kingdom
+VIS_000693,26-02-2024,Desktop,Organic Search,United States
+VIS_000694,04-03-2025,Mobile,Organic Search,India
+VIS_000695,26-09-2025,Tablet,Social,Singapore
+VIS_000696,29-04-2025,Mobile,Social,United States
+VIS_000697,05-03-2024,Mobile,Referral,India
+VIS_000698,05-09-2024,Tablet,Email,United Kingdom
+VIS_000699,12-01-2024,Mobile,Organic Search,India
+VIS_000700,13-01-2025,Mobile,Direct,Australia
+VIS_000701,30-06-2025,Mobile,Social,Australia
+VIS_000702,20-08-2025,Tablet,Organic Search,India
+VIS_000703,31-03-2025,Tablet,Email,United States
+VIS_000704,30-08-2024,Tablet,Paid Search,Australia
+VIS_000705,30-07-2024,Mobile,Social,United Kingdom
+VIS_000706,24-09-2024,Mobile,Direct,United Kingdom
+VIS_000707,10-10-2025,Mobile,Social,United States
+VIS_000708,10-07-2024,Tablet,Social,India
+VIS_000709,18-01-2025,Mobile,Direct,United States
+VIS_000710,07-04-2024,Mobile,Paid Search,United States
+VIS_000711,31-01-2024,Tablet,Email,United States
+VIS_000712,07-07-2024,Tablet,Email,India
+VIS_000713,07-12-2025,Desktop,Email,United States
+VIS_000714,08-12-2025,Desktop,Referral,United Kingdom
+VIS_000715,06-05-2024,Mobile,Paid Search,India
+VIS_000716,29-09-2025,Desktop,Paid Search,Australia
+VIS_000717,06-05-2025,Desktop,Organic Search,India
+VIS_000718,14-09-2025,Desktop,Paid Search,United Kingdom
+VIS_000719,04-06-2025,Desktop,Paid Search,United Kingdom
+VIS_000720,07-02-2024,Desktop,Paid Search,United Kingdom
+VIS_000721,25-12-2025,Mobile,Referral,India
+VIS_000722,01-02-2025,Mobile,Paid Search,India
+VIS_000723,21-11-2024,Mobile,Social,Australia
+VIS_000724,09-07-2025,Mobile,Email,Australia
+VIS_000725,19-07-2024,Desktop,Referral,United States
+VIS_000726,19-04-2025,Tablet,Paid Search,United States
+VIS_000727,10-03-2025,Tablet,Social,United Kingdom
+VIS_000728,19-03-2025,Desktop,Referral,United States
+VIS_000729,25-09-2025,Tablet,Direct,Singapore
+VIS_000730,05-09-2024,Desktop,Referral,India
+VIS_000731,28-09-2025,Tablet,Organic Search,Australia
+VIS_000732,28-03-2025,Mobile,Email,Australia
+VIS_000733,19-02-2025,Mobile,Email,United Kingdom
+VIS_000734,12-01-2025,Tablet,Paid Search,Australia
+VIS_000735,18-05-2025,Mobile,Social,United States
+VIS_000736,05-04-2025,Desktop,Social,India
+VIS_000737,24-12-2024,Mobile,Direct,Australia
+VIS_000738,09-02-2025,Mobile,Direct,Australia
+VIS_000739,15-02-2024,Desktop,Direct,Singapore
+VIS_000740,12-08-2025,Desktop,Organic Search,India
+VIS_000741,26-07-2025,Desktop,Organic Search,United States
+VIS_000742,15-08-2025,Desktop,Direct,Australia
+VIS_000743,18-07-2024,Desktop,Direct,Singapore
+VIS_000744,30-10-2024,Desktop,Email,India
+VIS_000745,12-06-2025,Tablet,Referral,India
+VIS_000746,28-08-2024,Desktop,Direct,United Kingdom
+VIS_000747,30-12-2025,Mobile,Referral,Australia
+VIS_000748,27-04-2025,Desktop,Social,India
+VIS_000749,18-10-2025,Mobile,Referral,India
+VIS_000750,01-01-2024,Tablet,Paid Search,Singapore
+VIS_000751,11-07-2025,Tablet,Paid Search,Singapore
+VIS_000752,07-01-2025,Desktop,Paid Search,Australia
+VIS_000753,24-09-2025,Desktop,Paid Search,Australia
+VIS_000754,11-05-2025,Tablet,Direct,Singapore
+VIS_000755,25-07-2025,Mobile,Organic Search,Singapore
+VIS_000756,24-02-2025,Mobile,Paid Search,United Kingdom
+VIS_000757,07-04-2024,Desktop,Paid Search,India
+VIS_000758,11-04-2024,Tablet,Paid Search,United States
+VIS_000759,04-09-2024,Desktop,Organic Search,United States
+VIS_000760,24-09-2024,Desktop,Referral,United States
+VIS_000761,01-01-2024,Desktop,Paid Search,India
+VIS_000762,15-03-2024,Tablet,Organic Search,United Kingdom
+VIS_000763,23-11-2024,Tablet,Email,Australia
+VIS_000764,08-04-2025,Tablet,Referral,United States
+VIS_000765,24-02-2025,Mobile,Organic Search,United Kingdom
+VIS_000766,17-09-2025,Mobile,Referral,United States
+VIS_000767,02-09-2024,Mobile,Organic Search,Singapore
+VIS_000768,09-08-2024,Desktop,Paid Search,United Kingdom
+VIS_000769,16-08-2025,Desktop,Direct,Australia
+VIS_000770,07-01-2025,Desktop,Email,Singapore
+VIS_000771,07-09-2025,Desktop,Referral,Australia
+VIS_000772,30-01-2025,Mobile,Paid Search,Australia
+VIS_000773,05-03-2025,Desktop,Organic Search,United States
+VIS_000774,10-12-2025,Tablet,Paid Search,United States
+VIS_000775,20-04-2024,Mobile,Organic Search,Singapore
+VIS_000776,23-02-2025,Tablet,Organic Search,India
+VIS_000777,05-10-2024,Mobile,Direct,India
+VIS_000778,09-10-2025,Mobile,Email,Australia
+VIS_000779,27-05-2024,Mobile,Email,Australia
+VIS_000780,12-03-2025,Mobile,Organic Search,United Kingdom
+VIS_000781,10-02-2024,Mobile,Organic Search,Australia
+VIS_000782,06-10-2024,Desktop,Organic Search,Singapore
+VIS_000783,23-10-2025,Tablet,Direct,United Kingdom
+VIS_000784,27-09-2024,Desktop,Email,United Kingdom
+VIS_000785,13-03-2024,Mobile,Organic Search,India
+VIS_000786,01-02-2024,Desktop,Organic Search,India
+VIS_000787,24-08-2024,Mobile,Referral,Singapore
+VIS_000788,07-12-2024,Tablet,Email,United Kingdom
+VIS_000789,09-05-2025,Mobile,Email,India
+VIS_000790,28-06-2024,Desktop,Social,United States
+VIS_000791,27-12-2024,Mobile,Direct,United States
+VIS_000792,06-03-2024,Mobile,Referral,United Kingdom
+VIS_000793,15-06-2024,Tablet,Paid Search,Australia
+VIS_000794,18-03-2025,Desktop,Organic Search,Singapore
+VIS_000795,07-07-2025,Mobile,Organic Search,Australia
+VIS_000796,11-10-2025,Tablet,Referral,India
+VIS_000797,03-10-2025,Tablet,Social,Australia
+VIS_000798,05-08-2025,Tablet,Social,Singapore
+VIS_000799,07-02-2024,Desktop,Social,Australia
+VIS_000800,13-07-2025,Tablet,Social,Australia
+VIS_000801,01-05-2024,Desktop,Referral,United Kingdom
+VIS_000802,28-12-2024,Mobile,Paid Search,India
+VIS_000803,17-02-2024,Desktop,Referral,United States
+VIS_000804,29-12-2025,Mobile,Social,Singapore
+VIS_000805,29-06-2024,Tablet,Direct,United States
+VIS_000806,14-08-2024,Desktop,Social,Australia
+VIS_000807,02-06-2025,Tablet,Social,Singapore
+VIS_000808,01-02-2025,Tablet,Email,United States
+VIS_000809,28-09-2024,Mobile,Organic Search,United Kingdom
+VIS_000810,07-04-2025,Tablet,Direct,India
+VIS_000811,20-03-2024,Desktop,Referral,United States
+VIS_000812,06-12-2024,Desktop,Organic Search,Singapore
+VIS_000813,06-12-2024,Mobile,Paid Search,India
+VIS_000814,17-01-2025,Desktop,Organic Search,United States
+VIS_000815,04-06-2025,Mobile,Social,United States
+VIS_000816,17-10-2025,Tablet,Email,Australia
+VIS_000817,05-07-2025,Mobile,Social,United States
+VIS_000818,10-03-2024,Mobile,Referral,United Kingdom
+VIS_000819,15-03-2024,Desktop,Referral,Australia
+VIS_000820,06-02-2024,Desktop,Email,Singapore
+VIS_000821,18-03-2024,Tablet,Referral,United States
+VIS_000822,27-07-2024,Tablet,Referral,United Kingdom
+VIS_000823,22-09-2025,Desktop,Referral,Australia
+VIS_000824,14-07-2025,Desktop,Email,Australia
+VIS_000825,23-12-2024,Mobile,Social,United States
+VIS_000826,26-05-2025,Desktop,Email,United States
+VIS_000827,30-09-2024,Tablet,Social,United Kingdom
+VIS_000828,24-03-2024,Mobile,Direct,Australia
+VIS_000829,06-05-2025,Tablet,Paid Search,United Kingdom
+VIS_000830,13-03-2025,Mobile,Referral,Australia
+VIS_000831,22-10-2025,Tablet,Social,United Kingdom
+VIS_000832,10-10-2025,Mobile,Email,United States
+VIS_000833,10-02-2024,Desktop,Referral,India
+VIS_000834,01-05-2025,Tablet,Organic Search,Australia
+VIS_000835,05-01-2025,Desktop,Referral,United Kingdom
+VIS_000836,09-06-2024,Mobile,Direct,United Kingdom
+VIS_000837,19-03-2025,Mobile,Paid Search,Singapore
+VIS_000838,22-04-2024,Desktop,Paid Search,India
+VIS_000839,26-11-2025,Mobile,Paid Search,Singapore
+VIS_000840,09-05-2025,Tablet,Paid Search,United States
+VIS_000841,06-01-2024,Mobile,Email,United Kingdom
+VIS_000842,10-05-2025,Tablet,Social,Australia
+VIS_000843,07-06-2024,Tablet,Social,United Kingdom
+VIS_000844,11-05-2024,Tablet,Referral,United States
+VIS_000845,09-05-2024,Tablet,Paid Search,United Kingdom
+VIS_000846,15-03-2025,Desktop,Social,United States
+VIS_000847,05-06-2024,Tablet,Organic Search,Singapore
+VIS_000848,16-05-2024,Desktop,Referral,India
+VIS_000849,10-05-2025,Desktop,Direct,Singapore
+VIS_000850,18-04-2024,Desktop,Referral,United Kingdom
+VIS_000851,18-03-2024,Mobile,Email,India
+VIS_000852,22-03-2024,Tablet,Paid Search,United States
+VIS_000853,15-01-2024,Mobile,Email,India
+VIS_000854,20-07-2024,Desktop,Organic Search,Singapore
+VIS_000855,24-05-2024,Desktop,Direct,India
+VIS_000856,24-12-2024,Tablet,Email,United States
+VIS_000857,15-12-2025,Tablet,Social,Singapore
+VIS_000858,29-07-2025,Desktop,Social,United States
+VIS_000859,09-10-2025,Mobile,Direct,India
+VIS_000860,15-02-2024,Tablet,Referral,Singapore
+VIS_000861,03-08-2024,Mobile,Direct,Singapore
+VIS_000862,02-11-2025,Mobile,Direct,Singapore
+VIS_000863,15-02-2025,Mobile,Social,United States
+VIS_000864,09-07-2024,Mobile,Organic Search,United Kingdom
+VIS_000865,03-09-2024,Desktop,Direct,Australia
+VIS_000866,29-06-2024,Desktop,Direct,United States
+VIS_000867,20-01-2024,Mobile,Direct,United States
+VIS_000868,08-10-2025,Mobile,Social,United States
+VIS_000869,22-07-2025,Desktop,Referral,India
+VIS_000870,18-04-2024,Mobile,Organic Search,Australia
+VIS_000871,08-11-2025,Mobile,Paid Search,Singapore
+VIS_000872,29-02-2024,Mobile,Organic Search,United States
+VIS_000873,27-11-2025,Mobile,Organic Search,Singapore
+VIS_000874,23-08-2025,Tablet,Direct,Singapore
+VIS_000875,11-08-2024,Tablet,Email,India
+VIS_000876,17-05-2025,Mobile,Paid Search,India
+VIS_000877,06-07-2024,Desktop,Email,Australia
+VIS_000878,14-03-2024,Desktop,Paid Search,India
+VIS_000879,28-01-2025,Mobile,Organic Search,United States
+VIS_000880,06-02-2024,Mobile,Social,Singapore
+VIS_000881,29-08-2025,Tablet,Direct,Singapore
+VIS_000882,04-08-2025,Mobile,Referral,United States
+VIS_000883,04-12-2025,Mobile,Organic Search,Australia
+VIS_000884,26-04-2024,Tablet,Organic Search,United States
+VIS_000885,09-05-2024,Mobile,Paid Search,India
+VIS_000886,06-07-2024,Tablet,Referral,United States
+VIS_000887,02-04-2024,Desktop,Referral,United Kingdom
+VIS_000888,15-04-2025,Desktop,Email,United States
+VIS_000889,24-11-2025,Desktop,Direct,United Kingdom
+VIS_000890,03-01-2025,Mobile,Paid Search,United States
+VIS_000891,17-06-2024,Desktop,Social,Australia
+VIS_000892,31-12-2024,Tablet,Social,Australia
+VIS_000893,02-02-2025,Mobile,Social,Singapore
+VIS_000894,30-06-2024,Tablet,Direct,Singapore
+VIS_000895,07-03-2025,Tablet,Organic Search,Singapore
+VIS_000896,13-04-2025,Desktop,Paid Search,Singapore
+VIS_000897,28-07-2025,Tablet,Paid Search,Singapore
+VIS_000898,06-05-2024,Desktop,Organic Search,United Kingdom
+VIS_000899,13-03-2025,Mobile,Social,United States
+VIS_000900,10-07-2025,Desktop,Paid Search,United Kingdom
+VIS_000901,28-10-2024,Tablet,Paid Search,India
+VIS_000902,18-03-2025,Desktop,Paid Search,India
+VIS_000903,16-07-2025,Mobile,Referral,Singapore
+VIS_000904,12-06-2025,Tablet,Social,Australia
+VIS_000905,31-03-2024,Tablet,Organic Search,Singapore
+VIS_000906,21-02-2025,Mobile,Paid Search,Australia
+VIS_000907,01-11-2025,Desktop,Direct,India
+VIS_000908,05-09-2025,Desktop,Organic Search,Australia
+VIS_000909,23-03-2025,Tablet,Social,United Kingdom
+VIS_000910,30-11-2024,Mobile,Social,United States
+VIS_000911,24-01-2025,Tablet,Paid Search,Singapore
+VIS_000912,04-04-2025,Desktop,Social,Singapore
+VIS_000913,21-08-2024,Mobile,Direct,United States
+VIS_000914,28-04-2024,Tablet,Referral,Australia
+VIS_000915,18-06-2024,Mobile,Direct,Singapore
+VIS_000916,20-12-2024,Tablet,Referral,India
+VIS_000917,13-12-2024,Desktop,Referral,United Kingdom
+VIS_000918,22-07-2025,Tablet,Social,Australia
+VIS_000919,09-08-2025,Tablet,Email,United States
+VIS_000920,13-11-2025,Mobile,Direct,United States
+VIS_000921,20-04-2025,Mobile,Email,United States
+VIS_000922,06-08-2025,Mobile,Email,Australia
+VIS_000923,17-03-2025,Mobile,Organic Search,United Kingdom
+VIS_000924,14-04-2024,Tablet,Email,Australia
+VIS_000925,04-05-2024,Desktop,Referral,Singapore
+VIS_000926,03-03-2025,Desktop,Referral,India
+VIS_000927,05-10-2024,Tablet,Direct,Australia
+VIS_000928,28-02-2024,Tablet,Email,United Kingdom
+VIS_000929,19-06-2025,Tablet,Social,India
+VIS_000930,04-05-2024,Mobile,Email,Australia
+VIS_000931,21-12-2025,Desktop,Social,United States
+VIS_000932,06-11-2025,Desktop,Organic Search,United States
+VIS_000933,11-03-2025,Mobile,Paid Search,India
+VIS_000934,15-11-2025,Mobile,Direct,Australia
+VIS_000935,30-07-2024,Mobile,Direct,United States
+VIS_000936,11-02-2025,Desktop,Direct,India
+VIS_000937,17-10-2025,Tablet,Direct,India
+VIS_000938,24-12-2024,Tablet,Paid Search,Singapore
+VIS_000939,16-01-2024,Desktop,Referral,United Kingdom
+VIS_000940,02-10-2024,Desktop,Social,India
+VIS_000941,26-07-2024,Mobile,Social,India
+VIS_000942,30-07-2024,Mobile,Email,India
+VIS_000943,20-12-2025,Mobile,Organic Search,Singapore
+VIS_000944,27-05-2025,Tablet,Social,United States
+VIS_000945,17-10-2025,Mobile,Paid Search,United States
+VIS_000946,14-06-2025,Tablet,Direct,United Kingdom
+VIS_000947,27-04-2025,Tablet,Email,United Kingdom
+VIS_000948,28-05-2025,Tablet,Social,Australia
+VIS_000949,21-02-2024,Tablet,Direct,Australia
+VIS_000950,05-10-2025,Tablet,Paid Search,Australia
+VIS_000951,14-12-2024,Desktop,Email,Australia
+VIS_000952,13-09-2024,Desktop,Referral,India
+VIS_000953,24-03-2024,Tablet,Organic Search,India
+VIS_000954,26-07-2025,Desktop,Paid Search,Singapore
+VIS_000955,25-12-2025,Tablet,Organic Search,India
+VIS_000956,08-03-2025,Tablet,Referral,United Kingdom
+VIS_000957,29-12-2024,Tablet,Email,United States
+VIS_000958,16-04-2024,Desktop,Email,India
+VIS_000959,25-02-2024,Mobile,Social,United Kingdom
+VIS_000960,20-01-2024,Mobile,Direct,United States
+VIS_000961,25-12-2025,Tablet,Direct,United States
+VIS_000962,10-02-2024,Mobile,Referral,United States
+VIS_000963,09-11-2024,Tablet,Direct,India
+VIS_000964,06-08-2025,Desktop,Referral,United States
+VIS_000965,04-01-2024,Mobile,Email,Australia
+VIS_000966,27-10-2024,Tablet,Social,India
+VIS_000967,15-07-2024,Desktop,Social,United States
+VIS_000968,17-09-2025,Tablet,Paid Search,United States
+VIS_000969,16-08-2024,Tablet,Organic Search,United States
+VIS_000970,16-06-2025,Tablet,Referral,India
+VIS_000971,13-07-2024,Desktop,Social,India
+VIS_000972,03-07-2024,Tablet,Email,United States
+VIS_000973,08-01-2024,Mobile,Direct,Singapore
+VIS_000974,25-07-2024,Tablet,Referral,Australia
+VIS_000975,25-12-2024,Desktop,Direct,Singapore
+VIS_000976,05-10-2025,Desktop,Direct,India
+VIS_000977,06-02-2025,Tablet,Email,Australia
+VIS_000978,09-10-2024,Mobile,Organic Search,Australia
+VIS_000979,05-04-2025,Mobile,Direct,Australia
+VIS_000980,17-11-2024,Mobile,Paid Search,Australia
+VIS_000981,13-07-2025,Desktop,Referral,United Kingdom
+VIS_000982,02-02-2025,Mobile,Organic Search,Singapore
+VIS_000983,29-10-2024,Tablet,Organic Search,Australia
+VIS_000984,14-04-2025,Desktop,Social,United States
+VIS_000985,24-06-2025,Desktop,Direct,Singapore
+VIS_000986,01-05-2024,Mobile,Email,Australia
+VIS_000987,17-04-2024,Desktop,Paid Search,United States
+VIS_000988,18-12-2025,Desktop,Social,United Kingdom
+VIS_000989,09-07-2024,Mobile,Direct,Singapore
+VIS_000990,12-03-2024,Desktop,Paid Search,India
+VIS_000991,02-01-2025,Mobile,Referral,Singapore
+VIS_000992,26-03-2025,Mobile,Email,India
+VIS_000993,13-10-2025,Tablet,Organic Search,United Kingdom
+VIS_000994,15-10-2025,Mobile,Paid Search,United Kingdom
+VIS_000995,18-10-2024,Tablet,Paid Search,United States
+VIS_000996,11-02-2024,Tablet,Referral,Australia
+VIS_000997,25-03-2024,Tablet,Paid Search,India
+VIS_000998,24-08-2024,Tablet,Email,United Kingdom
+VIS_000999,15-07-2025,Tablet,Direct,India
+VIS_001000,28-07-2025,Tablet,Referral,Singapore
+VIS_001001,10-09-2025,Mobile,Paid Search,Singapore
+VIS_001002,19-09-2024,Mobile,Organic Search,Australia
+VIS_001003,08-06-2025,Mobile,Email,Singapore
+VIS_001004,01-08-2024,Mobile,Referral,United Kingdom
+VIS_001005,23-06-2024,Desktop,Organic Search,Singapore
+VIS_001006,09-04-2024,Mobile,Referral,India
+VIS_001007,28-11-2025,Mobile,Paid Search,United States
+VIS_001008,24-08-2025,Tablet,Organic Search,Australia
+VIS_001009,17-08-2024,Mobile,Referral,United States
+VIS_001010,10-12-2024,Mobile,Referral,United States
+VIS_001011,06-07-2024,Tablet,Organic Search,India
+VIS_001012,17-01-2025,Desktop,Direct,Singapore
+VIS_001013,21-04-2024,Mobile,Direct,Singapore
+VIS_001014,27-08-2024,Mobile,Organic Search,United Kingdom
+VIS_001015,25-02-2024,Tablet,Referral,United States
+VIS_001016,01-06-2024,Desktop,Organic Search,United Kingdom
+VIS_001017,15-09-2024,Desktop,Referral,India
+VIS_001018,01-07-2025,Tablet,Social,United States
+VIS_001019,28-02-2024,Tablet,Social,United Kingdom
+VIS_001020,06-06-2025,Tablet,Organic Search,Australia
+VIS_001021,29-12-2024,Desktop,Social,India
+VIS_001022,06-12-2024,Tablet,Referral,United States
+VIS_001023,15-11-2025,Tablet,Social,Singapore
+VIS_001024,19-01-2025,Desktop,Social,United States
+VIS_001025,27-05-2024,Desktop,Social,Australia
+VIS_001026,08-01-2025,Mobile,Email,United Kingdom
+VIS_001027,24-12-2025,Mobile,Organic Search,United Kingdom
+VIS_001028,06-10-2024,Mobile,Direct,India
+VIS_001029,02-11-2025,Desktop,Paid Search,Singapore
+VIS_001030,11-06-2025,Desktop,Social,Singapore
+VIS_001031,13-08-2024,Desktop,Email,United States
+VIS_001032,13-08-2024,Tablet,Organic Search,United States
+VIS_001033,20-07-2025,Mobile,Direct,India
+VIS_001034,21-02-2024,Mobile,Email,United Kingdom
+VIS_001035,27-08-2024,Tablet,Paid Search,United Kingdom
+VIS_001036,25-05-2024,Tablet,Email,India
+VIS_001037,30-08-2025,Tablet,Paid Search,India
+VIS_001038,10-01-2024,Mobile,Organic Search,Australia
+VIS_001039,19-09-2025,Mobile,Email,United States
+VIS_001040,01-04-2025,Mobile,Direct,United States
+VIS_001041,31-12-2025,Tablet,Organic Search,India
+VIS_001042,11-07-2025,Tablet,Referral,India
+VIS_001043,01-05-2025,Desktop,Social,India
+VIS_001044,02-04-2024,Desktop,Organic Search,Australia
+VIS_001045,09-06-2024,Tablet,Paid Search,India
+VIS_001046,08-07-2025,Tablet,Social,Australia
+VIS_001047,19-02-2025,Desktop,Paid Search,Singapore
+VIS_001048,09-06-2025,Mobile,Direct,Singapore
+VIS_001049,17-04-2025,Tablet,Direct,United Kingdom
+VIS_001050,20-12-2024,Tablet,Referral,United States
+VIS_001051,15-07-2024,Desktop,Referral,India
+VIS_001052,25-04-2025,Desktop,Social,India
+VIS_001053,08-09-2024,Desktop,Organic Search,United Kingdom
+VIS_001054,06-09-2025,Mobile,Direct,United Kingdom
+VIS_001055,22-01-2024,Desktop,Referral,India
+VIS_001056,07-06-2024,Desktop,Organic Search,Singapore
+VIS_001057,26-06-2025,Mobile,Organic Search,Singapore
+VIS_001058,11-06-2025,Desktop,Social,Australia
+VIS_001059,20-11-2024,Mobile,Social,Singapore
+VIS_001060,27-07-2025,Mobile,Email,United States
+VIS_001061,17-05-2024,Mobile,Social,United Kingdom
+VIS_001062,29-02-2024,Desktop,Organic Search,Australia
+VIS_001063,12-08-2024,Mobile,Social,United Kingdom
+VIS_001064,31-07-2025,Desktop,Email,Singapore
+VIS_001065,28-03-2024,Mobile,Paid Search,United States
+VIS_001066,12-06-2024,Desktop,Referral,India
+VIS_001067,11-01-2025,Desktop,Social,Australia
+VIS_001068,27-09-2025,Tablet,Referral,Singapore
+VIS_001069,07-12-2024,Tablet,Organic Search,Singapore
+VIS_001070,21-11-2024,Tablet,Organic Search,India
+VIS_001071,16-06-2024,Mobile,Direct,United Kingdom
+VIS_001072,10-06-2025,Tablet,Paid Search,India
+VIS_001073,10-03-2024,Desktop,Paid Search,United States
+VIS_001074,21-05-2025,Mobile,Organic Search,Australia
+VIS_001075,08-01-2025,Desktop,Organic Search,Singapore
+VIS_001076,01-09-2024,Tablet,Referral,Singapore
+VIS_001077,06-10-2024,Mobile,Direct,United Kingdom
+VIS_001078,04-10-2025,Desktop,Paid Search,India
+VIS_001079,30-04-2025,Tablet,Email,India
+VIS_001080,04-08-2025,Desktop,Paid Search,India
+VIS_001081,24-04-2024,Desktop,Referral,India
+VIS_001082,06-04-2024,Mobile,Organic Search,Singapore
+VIS_001083,28-10-2024,Tablet,Direct,Singapore
+VIS_001084,09-08-2025,Tablet,Organic Search,United States
+VIS_001085,25-02-2025,Desktop,Direct,Singapore
+VIS_001086,09-12-2024,Tablet,Email,United States
+VIS_001087,04-12-2025,Tablet,Organic Search,Australia
+VIS_001088,25-09-2025,Desktop,Organic Search,Singapore
+VIS_001089,12-11-2024,Tablet,Organic Search,United States
+VIS_001090,09-07-2024,Tablet,Organic Search,India
+VIS_001091,03-03-2025,Tablet,Paid Search,United Kingdom
+VIS_001092,07-10-2024,Tablet,Organic Search,India
+VIS_001093,17-03-2025,Desktop,Paid Search,United Kingdom
+VIS_001094,08-04-2024,Mobile,Direct,United Kingdom
+VIS_001095,13-08-2024,Desktop,Paid Search,Australia
+VIS_001096,18-03-2024,Desktop,Direct,Singapore
+VIS_001097,26-10-2024,Desktop,Referral,Singapore
+VIS_001098,17-08-2025,Tablet,Direct,United Kingdom
+VIS_001099,15-01-2025,Tablet,Email,United States
+VIS_001100,27-10-2025,Desktop,Direct,United States
+VIS_001101,24-07-2024,Mobile,Paid Search,United States
+VIS_001102,05-03-2024,Desktop,Referral,United States
+VIS_001103,26-09-2025,Mobile,Referral,Australia
+VIS_001104,25-10-2024,Tablet,Referral,Singapore
+VIS_001105,19-04-2025,Tablet,Organic Search,United States
+VIS_001106,18-03-2025,Tablet,Social,India
+VIS_001107,25-02-2024,Mobile,Referral,United States
+VIS_001108,26-08-2025,Mobile,Paid Search,United Kingdom
+VIS_001109,14-05-2025,Mobile,Direct,United States
+VIS_001110,22-04-2025,Mobile,Email,United Kingdom
+VIS_001111,22-04-2024,Desktop,Paid Search,India
+VIS_001112,12-12-2024,Desktop,Email,Australia
+VIS_001113,30-03-2024,Desktop,Email,United States
+VIS_001114,15-08-2024,Desktop,Social,India
+VIS_001115,17-08-2024,Desktop,Social,Singapore
+VIS_001116,02-09-2024,Tablet,Organic Search,India
+VIS_001117,28-01-2025,Tablet,Referral,United States
+VIS_001118,15-01-2025,Mobile,Direct,Australia
+VIS_001119,26-03-2025,Tablet,Paid Search,United States
+VIS_001120,11-10-2025,Mobile,Social,Australia
+VIS_001121,02-02-2024,Mobile,Social,Singapore
+VIS_001122,24-06-2024,Desktop,Direct,India
+VIS_001123,21-02-2024,Mobile,Referral,Australia
+VIS_001124,23-09-2025,Desktop,Social,United Kingdom
+VIS_001125,03-06-2025,Tablet,Organic Search,Australia
+VIS_001126,10-02-2025,Tablet,Organic Search,United States
+VIS_001127,25-02-2025,Mobile,Referral,Australia
+VIS_001128,17-10-2024,Mobile,Organic Search,United States
+VIS_001129,06-10-2024,Tablet,Direct,Australia
+VIS_001130,14-09-2025,Desktop,Referral,Singapore
+VIS_001131,25-05-2025,Desktop,Referral,India
+VIS_001132,19-11-2024,Desktop,Email,India
+VIS_001133,21-02-2025,Desktop,Referral,India
+VIS_001134,19-01-2024,Tablet,Organic Search,United Kingdom
+VIS_001135,24-11-2025,Tablet,Organic Search,India
+VIS_001136,26-05-2024,Desktop,Paid Search,India
+VIS_001137,23-07-2025,Mobile,Organic Search,India
+VIS_001138,19-09-2025,Tablet,Paid Search,United States
+VIS_001139,15-12-2025,Mobile,Paid Search,United States
+VIS_001140,13-08-2024,Desktop,Social,Singapore
+VIS_001141,20-10-2024,Desktop,Organic Search,United Kingdom
+VIS_001142,29-07-2025,Mobile,Referral,Australia
+VIS_001143,07-07-2024,Tablet,Paid Search,Australia
+VIS_001144,05-12-2024,Tablet,Referral,United States
+VIS_001145,11-03-2025,Desktop,Referral,Singapore
+VIS_001146,10-08-2025,Desktop,Organic Search,United States
+VIS_001147,26-12-2025,Tablet,Referral,Australia
+VIS_001148,08-06-2025,Tablet,Social,Australia
+VIS_001149,01-10-2024,Tablet,Social,United States
+VIS_001150,16-06-2024,Tablet,Direct,United Kingdom
+VIS_001151,23-11-2024,Mobile,Direct,United Kingdom
+VIS_001152,27-07-2024,Tablet,Referral,Australia
+VIS_001153,21-04-2025,Tablet,Organic Search,Singapore
+VIS_001154,07-06-2024,Mobile,Email,United Kingdom
+VIS_001155,06-01-2025,Desktop,Direct,Australia
+VIS_001156,18-08-2025,Desktop,Email,United Kingdom
+VIS_001157,26-09-2025,Tablet,Direct,Singapore
+VIS_001158,30-03-2025,Mobile,Social,Australia
+VIS_001159,19-08-2025,Mobile,Referral,Australia
+VIS_001160,06-11-2024,Desktop,Direct,Australia
+VIS_001161,08-09-2024,Tablet,Referral,Singapore
+VIS_001162,10-10-2024,Tablet,Organic Search,United States
+VIS_001163,19-11-2024,Mobile,Email,United Kingdom
+VIS_001164,30-05-2025,Desktop,Direct,United Kingdom
+VIS_001165,04-08-2025,Mobile,Referral,India
+VIS_001166,07-08-2024,Desktop,Organic Search,United Kingdom
+VIS_001167,15-12-2025,Desktop,Organic Search,Australia
+VIS_001168,13-11-2025,Mobile,Referral,Australia
+VIS_001169,17-04-2025,Mobile,Social,India
+VIS_001170,02-02-2025,Mobile,Paid Search,Singapore
+VIS_001171,21-02-2024,Desktop,Social,Singapore
+VIS_001172,15-02-2024,Mobile,Paid Search,Singapore
+VIS_001173,20-06-2025,Tablet,Organic Search,Australia
+VIS_001174,21-07-2024,Mobile,Direct,United Kingdom
+VIS_001175,26-12-2025,Mobile,Social,India
+VIS_001176,24-10-2024,Desktop,Direct,United States
+VIS_001177,31-03-2024,Desktop,Organic Search,United Kingdom
+VIS_001178,20-08-2024,Desktop,Social,United Kingdom
+VIS_001179,06-07-2025,Tablet,Paid Search,Singapore
+VIS_001180,17-07-2024,Mobile,Referral,United States
+VIS_001181,19-05-2025,Desktop,Referral,Australia
+VIS_001182,18-09-2024,Desktop,Social,Singapore
+VIS_001183,14-06-2024,Desktop,Referral,Australia
+VIS_001184,01-10-2024,Mobile,Paid Search,Australia
+VIS_001185,07-04-2025,Mobile,Organic Search,United States
+VIS_001186,28-08-2024,Tablet,Paid Search,United States
+VIS_001187,03-12-2024,Mobile,Organic Search,United Kingdom
+VIS_001188,21-09-2025,Tablet,Social,India
+VIS_001189,14-08-2025,Desktop,Email,Singapore
+VIS_001190,29-04-2025,Tablet,Email,India
+VIS_001191,03-09-2024,Tablet,Social,India
+VIS_001192,06-09-2024,Tablet,Referral,Singapore
+VIS_001193,09-01-2025,Desktop,Paid Search,United Kingdom
+VIS_001194,10-03-2025,Desktop,Social,Singapore
+VIS_001195,16-10-2025,Tablet,Organic Search,Singapore
+VIS_001196,31-12-2025,Mobile,Paid Search,India
+VIS_001197,10-09-2025,Desktop,Email,Australia
+VIS_001198,24-10-2025,Mobile,Organic Search,Australia
+VIS_001199,23-06-2024,Desktop,Referral,Australia
+VIS_001200,19-07-2025,Desktop,Email,Singapore
+VIS_001201,01-07-2025,Desktop,Paid Search,United States
+VIS_001202,13-04-2025,Desktop,Direct,United States
+VIS_001203,08-01-2024,Tablet,Organic Search,Singapore
+VIS_001204,02-11-2025,Desktop,Organic Search,India
+VIS_001205,16-11-2024,Tablet,Email,United Kingdom
+VIS_001206,01-03-2025,Tablet,Referral,United States
+VIS_001207,29-05-2024,Tablet,Referral,United States
+VIS_001208,08-02-2025,Tablet,Organic Search,United States
+VIS_001209,19-08-2025,Desktop,Social,United States
+VIS_001210,21-08-2024,Tablet,Organic Search,India
+VIS_001211,27-12-2024,Mobile,Organic Search,Australia
+VIS_001212,08-01-2025,Desktop,Referral,Singapore
+VIS_001213,06-07-2025,Desktop,Referral,Australia
+VIS_001214,08-09-2024,Tablet,Referral,United Kingdom
+VIS_001215,20-06-2024,Desktop,Social,United States
+VIS_001216,16-11-2025,Tablet,Direct,Singapore
+VIS_001217,03-08-2024,Mobile,Organic Search,United Kingdom
+VIS_001218,19-09-2025,Tablet,Direct,United Kingdom
+VIS_001219,03-05-2024,Tablet,Social,United Kingdom
+VIS_001220,07-09-2024,Mobile,Referral,India
+VIS_001221,10-12-2024,Mobile,Email,Australia
+VIS_001222,10-10-2025,Desktop,Paid Search,United Kingdom
+VIS_001223,30-10-2024,Mobile,Organic Search,Singapore
+VIS_001224,08-10-2024,Desktop,Social,Australia
+VIS_001225,26-10-2024,Tablet,Direct,Singapore
+VIS_001226,10-03-2024,Desktop,Social,Singapore
+VIS_001227,07-11-2024,Desktop,Paid Search,United States
+VIS_001228,12-08-2024,Tablet,Organic Search,United States
+VIS_001229,23-07-2024,Desktop,Email,India
+VIS_001230,02-09-2024,Desktop,Organic Search,India
+VIS_001231,07-10-2024,Desktop,Paid Search,United States
+VIS_001232,10-08-2025,Desktop,Social,India
+VIS_001233,01-06-2024,Tablet,Organic Search,Singapore
+VIS_001234,09-10-2024,Tablet,Paid Search,India
+VIS_001235,13-12-2024,Tablet,Social,United Kingdom
+VIS_001236,09-10-2024,Mobile,Referral,India
+VIS_001237,30-08-2025,Desktop,Email,Australia
+VIS_001238,19-10-2024,Tablet,Organic Search,United States
+VIS_001239,18-04-2024,Mobile,Social,United States
+VIS_001240,12-04-2025,Desktop,Paid Search,United Kingdom
+VIS_001241,29-08-2025,Desktop,Referral,India
+VIS_001242,31-12-2024,Tablet,Email,United States
+VIS_001243,14-03-2025,Mobile,Email,Australia
+VIS_001244,29-05-2025,Mobile,Direct,United Kingdom
+VIS_001245,05-04-2024,Mobile,Social,Australia
+VIS_001246,01-11-2025,Desktop,Paid Search,India
+VIS_001247,13-05-2025,Tablet,Paid Search,United Kingdom
+VIS_001248,23-08-2025,Tablet,Social,United States
+VIS_001249,29-05-2024,Mobile,Social,Australia
+VIS_001250,24-06-2024,Tablet,Paid Search,India
+VIS_001251,21-09-2024,Tablet,Direct,Singapore
+VIS_001252,29-03-2025,Tablet,Social,United States
+VIS_001253,09-01-2025,Tablet,Email,Singapore
+VIS_001254,23-09-2024,Mobile,Paid Search,Singapore
+VIS_001255,04-08-2025,Tablet,Paid Search,Singapore
+VIS_001256,14-07-2025,Tablet,Email,United States
+VIS_001257,29-01-2025,Tablet,Referral,Singapore
+VIS_001258,16-09-2025,Mobile,Direct,United States
+VIS_001259,26-12-2025,Desktop,Direct,United Kingdom
+VIS_001260,21-02-2024,Mobile,Direct,United Kingdom
+VIS_001261,17-12-2024,Mobile,Direct,Australia
+VIS_001262,21-01-2025,Tablet,Email,United States
+VIS_001263,25-01-2025,Desktop,Email,United Kingdom
+VIS_001264,25-10-2025,Mobile,Social,Singapore
+VIS_001265,02-10-2024,Mobile,Email,India
+VIS_001266,07-10-2024,Desktop,Direct,Australia
+VIS_001267,24-07-2025,Desktop,Organic Search,Singapore
+VIS_001268,29-12-2025,Tablet,Organic Search,Australia
+VIS_001269,11-02-2025,Tablet,Social,India
+VIS_001270,18-01-2025,Mobile,Organic Search,United Kingdom
+VIS_001271,02-12-2024,Mobile,Direct,United Kingdom
+VIS_001272,07-02-2025,Tablet,Email,India
+VIS_001273,20-03-2025,Desktop,Direct,United States
+VIS_001274,13-11-2024,Tablet,Email,United States
+VIS_001275,28-03-2024,Mobile,Paid Search,United States
+VIS_001276,06-11-2025,Tablet,Referral,Singapore
+VIS_001277,20-06-2024,Tablet,Email,India
+VIS_001278,23-01-2024,Tablet,Email,Singapore
+VIS_001279,26-07-2025,Mobile,Organic Search,Singapore
+VIS_001280,08-06-2024,Tablet,Organic Search,United Kingdom
+VIS_001281,18-10-2024,Desktop,Organic Search,Australia
+VIS_001282,25-01-2025,Mobile,Social,Singapore
+VIS_001283,17-02-2025,Desktop,Social,Singapore
+VIS_001284,29-11-2025,Tablet,Direct,India
+VIS_001285,21-12-2024,Tablet,Referral,United States
+VIS_001286,10-04-2024,Tablet,Email,Australia
+VIS_001287,03-10-2024,Mobile,Social,India
+VIS_001288,25-05-2024,Mobile,Direct,Australia
+VIS_001289,04-03-2024,Mobile,Organic Search,Australia
+VIS_001290,13-08-2024,Desktop,Direct,United Kingdom
+VIS_001291,22-06-2024,Mobile,Social,Singapore
+VIS_001292,09-03-2025,Mobile,Social,India
+VIS_001293,09-01-2025,Mobile,Organic Search,United Kingdom
+VIS_001294,25-07-2025,Tablet,Email,Australia
+VIS_001295,14-10-2025,Desktop,Organic Search,Australia
+VIS_001296,26-04-2024,Desktop,Social,Singapore
+VIS_001297,26-12-2024,Tablet,Direct,India
+VIS_001298,21-04-2025,Mobile,Paid Search,Singapore
+VIS_001299,13-09-2024,Desktop,Email,Singapore
+VIS_001300,14-10-2024,Desktop,Direct,Australia
+VIS_001301,31-03-2024,Desktop,Paid Search,United States
+VIS_001302,30-05-2025,Desktop,Paid Search,Singapore
+VIS_001303,06-06-2025,Tablet,Paid Search,United Kingdom
+VIS_001304,11-12-2025,Mobile,Referral,United States
+VIS_001305,19-10-2024,Tablet,Referral,Singapore
+VIS_001306,10-03-2024,Tablet,Direct,Singapore
+VIS_001307,22-11-2024,Tablet,Organic Search,United Kingdom
+VIS_001308,06-08-2024,Tablet,Referral,Singapore
+VIS_001309,25-11-2025,Tablet,Referral,Australia
+VIS_001310,10-04-2025,Mobile,Direct,Australia
+VIS_001311,05-09-2025,Desktop,Organic Search,India
+VIS_001312,23-06-2025,Desktop,Referral,India
+VIS_001313,02-11-2025,Desktop,Direct,India
+VIS_001314,24-10-2024,Tablet,Direct,India
+VIS_001315,11-08-2024,Mobile,Paid Search,Australia
+VIS_001316,19-07-2024,Mobile,Paid Search,United States
+VIS_001317,23-10-2025,Mobile,Referral,Australia
+VIS_001318,24-03-2025,Desktop,Direct,Singapore
+VIS_001319,31-07-2024,Tablet,Email,Australia
+VIS_001320,11-11-2025,Mobile,Paid Search,Singapore
+VIS_001321,20-01-2024,Tablet,Direct,United States
+VIS_001322,13-11-2025,Mobile,Direct,United States
+VIS_001323,20-09-2024,Mobile,Social,India
+VIS_001324,02-05-2024,Mobile,Direct,United Kingdom
+VIS_001325,08-05-2025,Mobile,Organic Search,United States
+VIS_001326,26-10-2024,Mobile,Organic Search,United Kingdom
+VIS_001327,31-12-2024,Tablet,Direct,Australia
+VIS_001328,22-02-2024,Desktop,Social,Australia
+VIS_001329,23-02-2024,Mobile,Referral,United States
+VIS_001330,30-09-2024,Tablet,Social,United Kingdom
+VIS_001331,27-02-2024,Tablet,Direct,India
+VIS_001332,29-10-2024,Tablet,Organic Search,Singapore
+VIS_001333,16-01-2025,Desktop,Direct,India
+VIS_001334,28-10-2025,Desktop,Referral,India
+VIS_001335,18-02-2024,Tablet,Direct,Singapore
+VIS_001336,10-12-2024,Mobile,Email,Singapore
+VIS_001337,17-01-2025,Mobile,Social,United Kingdom
+VIS_001338,08-08-2025,Mobile,Social,United States
+VIS_001339,07-05-2024,Mobile,Email,United Kingdom
+VIS_001340,02-04-2025,Mobile,Organic Search,Singapore
+VIS_001341,05-06-2025,Mobile,Paid Search,United States
+VIS_001342,02-04-2025,Desktop,Email,United States
+VIS_001343,18-10-2025,Desktop,Referral,United States
+VIS_001344,21-06-2025,Mobile,Email,United Kingdom
+VIS_001345,01-11-2025,Desktop,Social,Australia
+VIS_001346,09-06-2025,Mobile,Paid Search,United Kingdom
+VIS_001347,24-10-2024,Mobile,Email,India
+VIS_001348,03-07-2024,Desktop,Referral,Australia
+VIS_001349,18-05-2024,Tablet,Email,India
+VIS_001350,20-04-2024,Tablet,Direct,India
+VIS_001351,28-08-2024,Tablet,Organic Search,United States
+VIS_001352,19-11-2024,Tablet,Organic Search,Singapore
+VIS_001353,20-05-2025,Mobile,Email,Singapore
+VIS_001354,27-05-2024,Desktop,Referral,Singapore
+VIS_001355,09-12-2025,Mobile,Social,Singapore
+VIS_001356,26-10-2024,Desktop,Organic Search,India
+VIS_001357,30-04-2024,Desktop,Referral,United States
+VIS_001358,01-08-2025,Desktop,Social,Singapore
+VIS_001359,14-10-2024,Tablet,Direct,Singapore
+VIS_001360,18-11-2025,Desktop,Referral,India
+VIS_001361,05-09-2025,Desktop,Referral,United States
+VIS_001362,12-08-2025,Desktop,Social,United States
+VIS_001363,17-01-2025,Tablet,Organic Search,India
+VIS_001364,22-01-2024,Tablet,Referral,Singapore
+VIS_001365,25-01-2024,Desktop,Paid Search,United States
+VIS_001366,16-02-2024,Mobile,Social,United Kingdom
+VIS_001367,10-10-2024,Tablet,Social,United Kingdom
+VIS_001368,19-08-2025,Tablet,Referral,Singapore
+VIS_001369,08-03-2024,Desktop,Direct,Singapore
+VIS_001370,23-05-2025,Tablet,Paid Search,Singapore
+VIS_001371,27-01-2024,Tablet,Organic Search,Singapore
+VIS_001372,29-01-2024,Desktop,Organic Search,Australia
+VIS_001373,04-02-2024,Mobile,Direct,India
+VIS_001374,30-06-2024,Tablet,Referral,Singapore
+VIS_001375,08-02-2024,Tablet,Organic Search,United Kingdom
+VIS_001376,06-09-2024,Mobile,Email,Singapore
+VIS_001377,16-01-2024,Tablet,Organic Search,India
+VIS_001378,04-08-2025,Mobile,Social,Singapore
+VIS_001379,21-07-2025,Mobile,Email,Australia
+VIS_001380,27-07-2024,Desktop,Email,Australia
+VIS_001381,13-03-2024,Tablet,Social,Singapore
+VIS_001382,27-10-2025,Desktop,Social,Australia
+VIS_001383,16-07-2025,Mobile,Organic Search,India
+VIS_001384,25-02-2025,Tablet,Organic Search,Singapore
+VIS_001385,08-07-2025,Desktop,Organic Search,United Kingdom
+VIS_001386,11-07-2025,Desktop,Social,United Kingdom
+VIS_001387,24-11-2025,Desktop,Direct,Australia
+VIS_001388,21-01-2025,Mobile,Paid Search,United States
+VIS_001389,08-11-2024,Desktop,Email,Singapore
+VIS_001390,30-12-2024,Mobile,Direct,United Kingdom
+VIS_001391,27-03-2025,Desktop,Direct,United Kingdom
+VIS_001392,03-08-2025,Desktop,Email,United States
+VIS_001393,07-02-2024,Desktop,Email,Singapore
+VIS_001394,14-07-2024,Desktop,Email,India
+VIS_001395,31-05-2024,Tablet,Direct,United States
+VIS_001396,11-01-2025,Tablet,Paid Search,Singapore
+VIS_001397,13-12-2025,Tablet,Organic Search,India
+VIS_001398,10-05-2024,Desktop,Email,India
+VIS_001399,23-10-2024,Mobile,Paid Search,United Kingdom
+VIS_001400,13-12-2024,Tablet,Organic Search,United States
+VIS_001401,13-11-2025,Tablet,Social,Singapore
+VIS_001402,03-01-2025,Tablet,Organic Search,India
+VIS_001403,04-01-2024,Desktop,Social,Singapore
+VIS_001404,07-02-2025,Desktop,Referral,United Kingdom
+VIS_001405,18-12-2025,Tablet,Email,Singapore
+VIS_001406,21-09-2024,Mobile,Direct,United States
+VIS_001407,02-02-2025,Desktop,Referral,Singapore
+VIS_001408,10-06-2025,Desktop,Referral,United Kingdom
+VIS_001409,27-06-2024,Tablet,Organic Search,Australia
+VIS_001410,20-06-2024,Mobile,Direct,United Kingdom
+VIS_001411,06-03-2025,Desktop,Referral,Australia
+VIS_001412,08-07-2024,Desktop,Social,United States
+VIS_001413,27-11-2025,Mobile,Direct,India
+VIS_001414,28-03-2025,Desktop,Social,United States
+VIS_001415,04-07-2024,Mobile,Social,Singapore
+VIS_001416,06-12-2024,Mobile,Social,Australia
+VIS_001417,11-09-2025,Desktop,Referral,Australia
+VIS_001418,17-11-2025,Desktop,Social,United States
+VIS_001419,27-10-2025,Mobile,Social,India
+VIS_001420,15-12-2025,Desktop,Direct,United States
+VIS_001421,16-06-2025,Desktop,Paid Search,United Kingdom
+VIS_001422,22-03-2025,Desktop,Paid Search,United States
+VIS_001423,25-06-2024,Tablet,Email,India
+VIS_001424,15-03-2025,Tablet,Referral,United States
+VIS_001425,21-09-2024,Desktop,Paid Search,United States
+VIS_001426,04-09-2025,Tablet,Email,Singapore
+VIS_001427,02-03-2025,Mobile,Social,Australia
+VIS_001428,13-06-2025,Desktop,Email,India
+VIS_001429,14-04-2024,Mobile,Direct,United States
+VIS_001430,16-11-2024,Mobile,Referral,United Kingdom
+VIS_001431,06-01-2024,Tablet,Paid Search,Singapore
+VIS_001432,17-11-2025,Tablet,Direct,India
+VIS_001433,28-08-2024,Mobile,Paid Search,Australia
+VIS_001434,17-05-2024,Mobile,Direct,United States
+VIS_001435,28-02-2025,Mobile,Social,India
+VIS_001436,25-12-2024,Desktop,Social,United Kingdom
+VIS_001437,27-04-2024,Desktop,Direct,Australia
+VIS_001438,21-09-2024,Mobile,Organic Search,India
+VIS_001439,08-03-2025,Tablet,Email,United States
+VIS_001440,03-02-2025,Desktop,Email,United Kingdom
+VIS_001441,25-03-2025,Desktop,Organic Search,Australia
+VIS_001442,03-02-2025,Mobile,Email,Singapore
+VIS_001443,26-10-2024,Mobile,Organic Search,United Kingdom
+VIS_001444,04-06-2024,Tablet,Paid Search,United States
+VIS_001445,05-07-2025,Tablet,Social,United Kingdom
+VIS_001446,02-10-2025,Mobile,Direct,United States
+VIS_001447,06-05-2024,Desktop,Referral,United States
+VIS_001448,30-07-2025,Desktop,Direct,Singapore
+VIS_001449,26-10-2025,Desktop,Email,United States
+VIS_001450,30-01-2024,Mobile,Direct,India
+VIS_001451,10-05-2025,Desktop,Direct,India
+VIS_001452,22-08-2024,Mobile,Referral,India
+VIS_001453,05-01-2024,Mobile,Social,Australia
+VIS_001454,25-11-2025,Mobile,Social,Singapore
+VIS_001455,03-10-2025,Tablet,Referral,United States
+VIS_001456,08-09-2025,Mobile,Paid Search,Australia
+VIS_001457,30-04-2024,Mobile,Referral,Australia
+VIS_001458,15-04-2025,Desktop,Social,Australia
+VIS_001459,23-04-2025,Mobile,Organic Search,United Kingdom
+VIS_001460,16-10-2025,Mobile,Social,India
+VIS_001461,15-04-2024,Desktop,Organic Search,United Kingdom
+VIS_001462,23-04-2025,Mobile,Direct,United Kingdom
+VIS_001463,06-12-2024,Tablet,Social,Singapore
+VIS_001464,29-04-2025,Mobile,Paid Search,Singapore
+VIS_001465,10-02-2025,Tablet,Email,India
+VIS_001466,28-04-2025,Tablet,Email,United States
+VIS_001467,28-02-2024,Mobile,Social,Singapore
+VIS_001468,17-07-2024,Tablet,Direct,India
+VIS_001469,24-05-2024,Mobile,Email,India
+VIS_001470,24-11-2025,Desktop,Social,Singapore
+VIS_001471,13-06-2025,Tablet,Referral,United Kingdom
+VIS_001472,21-06-2025,Mobile,Email,Australia
+VIS_001473,29-12-2024,Mobile,Referral,United Kingdom
+VIS_001474,16-07-2024,Desktop,Email,United States
+VIS_001475,21-12-2024,Mobile,Referral,United States
+VIS_001476,05-05-2024,Tablet,Paid Search,Australia
+VIS_001477,20-10-2025,Desktop,Referral,United States
+VIS_001478,06-04-2024,Mobile,Email,Australia
+VIS_001479,30-12-2024,Tablet,Social,Singapore
+VIS_001480,27-06-2025,Mobile,Social,Australia
+VIS_001481,31-05-2024,Desktop,Referral,Singapore
+VIS_001482,22-02-2024,Desktop,Organic Search,Singapore
+VIS_001483,14-03-2024,Mobile,Organic Search,Australia
+VIS_001484,31-05-2025,Tablet,Organic Search,United Kingdom
+VIS_001485,29-05-2025,Mobile,Paid Search,United States
+VIS_001486,22-08-2025,Desktop,Social,United Kingdom
+VIS_001487,03-01-2025,Mobile,Social,United Kingdom
+VIS_001488,03-11-2024,Desktop,Paid Search,Australia
+VIS_001489,16-11-2025,Mobile,Organic Search,United States
+VIS_001490,20-05-2025,Mobile,Referral,United States
+VIS_001491,04-07-2025,Tablet,Organic Search,Singapore
+VIS_001492,15-02-2024,Desktop,Direct,United States
+VIS_001493,11-04-2025,Tablet,Social,United Kingdom
+VIS_001494,31-10-2024,Mobile,Paid Search,India
+VIS_001495,20-01-2025,Desktop,Email,Australia
+VIS_001496,11-02-2024,Desktop,Social,United Kingdom
+VIS_001497,24-08-2024,Desktop,Referral,Singapore
+VIS_001498,17-05-2024,Mobile,Direct,United Kingdom
+VIS_001499,17-06-2024,Mobile,Social,India
+VIS_001500,06-07-2024,Desktop,Direct,India
+VIS_001501,03-06-2024,Tablet,Direct,United States
+VIS_001502,14-03-2025,Tablet,Direct,United Kingdom
+VIS_001503,01-02-2024,Desktop,Paid Search,Australia
+VIS_001504,29-06-2025,Tablet,Social,India
+VIS_001505,25-08-2025,Tablet,Email,Australia
+VIS_001506,31-05-2025,Mobile,Direct,Singapore
+VIS_001507,01-02-2025,Desktop,Referral,Singapore
+VIS_001508,13-03-2025,Desktop,Referral,Australia
+VIS_001509,20-03-2025,Desktop,Direct,United Kingdom
+VIS_001510,07-01-2025,Mobile,Paid Search,Singapore
+VIS_001511,08-01-2025,Desktop,Referral,India
+VIS_001512,15-06-2024,Mobile,Referral,United Kingdom
+VIS_001513,13-06-2024,Tablet,Email,India
+VIS_001514,30-04-2024,Mobile,Direct,United Kingdom
+VIS_001515,23-10-2025,Tablet,Paid Search,United States
+VIS_001516,31-03-2025,Mobile,Email,United Kingdom
+VIS_001517,03-09-2025,Mobile,Paid Search,United States
+VIS_001518,27-11-2025,Mobile,Organic Search,Singapore
+VIS_001519,26-06-2024,Mobile,Email,India
+VIS_001520,11-08-2025,Desktop,Referral,Australia
+VIS_001521,23-10-2025,Tablet,Organic Search,United Kingdom
+VIS_001522,02-05-2024,Mobile,Social,United Kingdom
+VIS_001523,21-05-2025,Mobile,Direct,India
+VIS_001524,29-08-2025,Tablet,Paid Search,India
+VIS_001525,17-11-2024,Mobile,Referral,United Kingdom
+VIS_001526,13-04-2025,Tablet,Email,United States
+VIS_001527,12-08-2024,Mobile,Paid Search,Singapore
+VIS_001528,09-10-2024,Desktop,Referral,Singapore
+VIS_001529,15-09-2024,Mobile,Paid Search,India
+VIS_001530,08-01-2025,Tablet,Referral,United Kingdom
+VIS_001531,23-03-2024,Desktop,Email,United States
+VIS_001532,04-12-2025,Desktop,Referral,United States
+VIS_001533,12-12-2024,Tablet,Organic Search,Australia
+VIS_001534,20-11-2025,Desktop,Paid Search,India
+VIS_001535,03-05-2025,Tablet,Email,Singapore
+VIS_001536,20-08-2024,Mobile,Organic Search,United States
+VIS_001537,27-04-2025,Desktop,Paid Search,United States
+VIS_001538,23-05-2025,Desktop,Referral,Singapore
+VIS_001539,14-07-2024,Desktop,Social,Singapore
+VIS_001540,27-11-2025,Mobile,Direct,Singapore
+VIS_001541,10-02-2025,Desktop,Direct,India
+VIS_001542,09-01-2024,Desktop,Referral,United Kingdom
+VIS_001543,09-01-2024,Mobile,Email,United Kingdom
+VIS_001544,09-04-2024,Tablet,Paid Search,Australia
+VIS_001545,07-12-2025,Desktop,Paid Search,United States
+VIS_001546,21-08-2024,Tablet,Paid Search,India
+VIS_001547,13-06-2025,Mobile,Organic Search,Singapore
+VIS_001548,29-07-2025,Desktop,Social,United Kingdom
+VIS_001549,24-09-2025,Desktop,Referral,United Kingdom
+VIS_001550,27-06-2024,Mobile,Social,Australia
+VIS_001551,25-10-2024,Tablet,Paid Search,United States
+VIS_001552,17-09-2024,Tablet,Social,India
+VIS_001553,05-01-2024,Tablet,Email,United States
+VIS_001554,12-06-2025,Desktop,Referral,Australia
+VIS_001555,12-11-2025,Tablet,Referral,Australia
+VIS_001556,02-11-2025,Tablet,Direct,Australia
+VIS_001557,10-08-2025,Desktop,Organic Search,Singapore
+VIS_001558,02-04-2025,Mobile,Direct,Singapore
+VIS_001559,26-09-2025,Tablet,Paid Search,United States
+VIS_001560,01-10-2024,Tablet,Paid Search,Australia
+VIS_001561,10-03-2025,Mobile,Direct,United Kingdom
+VIS_001562,26-03-2024,Desktop,Referral,Australia
+VIS_001563,06-02-2024,Desktop,Email,United Kingdom
+VIS_001564,04-09-2024,Tablet,Organic Search,Singapore
+VIS_001565,15-03-2025,Desktop,Direct,United States
+VIS_001566,19-04-2024,Desktop,Paid Search,India
+VIS_001567,12-09-2024,Mobile,Social,Singapore
+VIS_001568,06-05-2024,Desktop,Email,United Kingdom
+VIS_001569,17-04-2024,Desktop,Paid Search,India
+VIS_001570,30-12-2024,Tablet,Email,India
+VIS_001571,30-01-2025,Mobile,Social,India
+VIS_001572,05-01-2025,Tablet,Organic Search,United Kingdom
+VIS_001573,06-12-2024,Mobile,Direct,United Kingdom
+VIS_001574,06-06-2025,Tablet,Email,India
+VIS_001575,23-10-2024,Tablet,Organic Search,India
+VIS_001576,27-07-2025,Mobile,Direct,Singapore
+VIS_001577,19-05-2024,Mobile,Referral,United Kingdom
+VIS_001578,13-07-2025,Mobile,Paid Search,Singapore
+VIS_001579,10-10-2025,Tablet,Referral,India
+VIS_001580,12-01-2024,Desktop,Social,United States
+VIS_001581,29-01-2025,Desktop,Paid Search,United States
+VIS_001582,22-11-2024,Tablet,Organic Search,Singapore
+VIS_001583,08-04-2025,Mobile,Paid Search,Singapore
+VIS_001584,12-02-2025,Mobile,Paid Search,United States
+VIS_001585,19-06-2024,Tablet,Paid Search,United Kingdom
+VIS_001586,23-03-2025,Mobile,Email,Australia
+VIS_001587,30-08-2024,Mobile,Email,Australia
+VIS_001588,14-02-2024,Desktop,Paid Search,Singapore
+VIS_001589,22-08-2025,Desktop,Social,United States
+VIS_001590,19-06-2024,Desktop,Direct,India
+VIS_001591,16-10-2025,Desktop,Social,India
+VIS_001592,12-08-2024,Mobile,Paid Search,Australia
+VIS_001593,03-04-2024,Desktop,Paid Search,United States
+VIS_001594,20-04-2025,Tablet,Social,United Kingdom
+VIS_001595,14-09-2025,Tablet,Social,United States
+VIS_001596,30-10-2025,Desktop,Direct,United Kingdom
+VIS_001597,14-07-2025,Tablet,Organic Search,United States
+VIS_001598,13-12-2025,Tablet,Referral,India
+VIS_001599,22-11-2024,Desktop,Email,United Kingdom
+VIS_001600,25-01-2025,Desktop,Paid Search,India
+VIS_001601,08-08-2025,Mobile,Paid Search,Australia
+VIS_001602,22-01-2025,Desktop,Paid Search,India
+VIS_001603,02-09-2024,Desktop,Social,Australia
+VIS_001604,30-03-2024,Mobile,Direct,India
+VIS_001605,02-01-2025,Tablet,Social,United Kingdom
+VIS_001606,12-08-2025,Tablet,Organic Search,United Kingdom
+VIS_001607,17-05-2024,Mobile,Social,United States
+VIS_001608,09-03-2025,Tablet,Organic Search,India
+VIS_001609,14-04-2024,Mobile,Organic Search,United States
+VIS_001610,29-11-2025,Desktop,Social,Australia
+VIS_001611,25-07-2025,Mobile,Email,United States
+VIS_001612,15-08-2024,Desktop,Social,Singapore
+VIS_001613,24-05-2024,Tablet,Email,United Kingdom
+VIS_001614,09-08-2024,Mobile,Direct,Singapore
+VIS_001615,23-02-2025,Tablet,Organic Search,Singapore
+VIS_001616,30-05-2025,Tablet,Organic Search,Singapore
+VIS_001617,07-02-2025,Mobile,Social,Singapore
+VIS_001618,16-03-2024,Mobile,Social,Australia
+VIS_001619,06-01-2024,Desktop,Referral,United Kingdom
+VIS_001620,09-04-2024,Tablet,Paid Search,United States
+VIS_001621,02-02-2024,Mobile,Referral,India
+VIS_001622,19-10-2024,Mobile,Direct,Singapore
+VIS_001623,09-04-2024,Tablet,Social,Singapore
+VIS_001624,23-12-2025,Mobile,Organic Search,United States
+VIS_001625,04-04-2024,Desktop,Organic Search,India
+VIS_001626,26-12-2025,Mobile,Direct,India
+VIS_001627,22-11-2024,Desktop,Organic Search,United Kingdom
+VIS_001628,05-06-2024,Desktop,Direct,India
+VIS_001629,28-02-2025,Desktop,Paid Search,India
+VIS_001630,13-11-2024,Tablet,Direct,Singapore
+VIS_001631,12-03-2025,Mobile,Paid Search,United Kingdom
+VIS_001632,21-01-2024,Tablet,Organic Search,United Kingdom
+VIS_001633,20-03-2025,Tablet,Paid Search,Singapore
+VIS_001634,18-04-2025,Mobile,Organic Search,Australia
+VIS_001635,13-07-2024,Desktop,Direct,United States
+VIS_001636,15-07-2024,Tablet,Referral,India
+VIS_001637,10-01-2024,Mobile,Paid Search,Australia
+VIS_001638,30-03-2024,Mobile,Referral,United States
+VIS_001639,10-02-2024,Tablet,Email,United States
+VIS_001640,30-03-2025,Desktop,Email,Australia
+VIS_001641,06-04-2024,Mobile,Direct,Australia
+VIS_001642,14-03-2024,Mobile,Organic Search,Australia
+VIS_001643,09-02-2025,Tablet,Social,Australia
+VIS_001644,19-08-2024,Desktop,Organic Search,United Kingdom
+VIS_001645,15-03-2025,Mobile,Referral,Singapore
+VIS_001646,23-09-2024,Mobile,Email,India
+VIS_001647,09-10-2024,Tablet,Referral,Singapore
+VIS_001648,21-10-2025,Tablet,Social,United States
+VIS_001649,21-03-2025,Mobile,Organic Search,Singapore
+VIS_001650,12-04-2024,Mobile,Direct,United States
+VIS_001651,14-02-2025,Desktop,Organic Search,United Kingdom
+VIS_001652,12-05-2024,Mobile,Email,Australia
+VIS_001653,02-07-2024,Desktop,Referral,India
+VIS_001654,02-12-2024,Desktop,Direct,United States
+VIS_001655,20-09-2025,Mobile,Referral,United Kingdom
+VIS_001656,23-04-2024,Tablet,Social,Australia
+VIS_001657,18-02-2025,Tablet,Referral,United States
+VIS_001658,17-02-2025,Mobile,Direct,Singapore
+VIS_001659,23-08-2024,Desktop,Direct,Australia
+VIS_001660,02-11-2025,Mobile,Referral,India
+VIS_001661,14-03-2024,Tablet,Direct,United States
+VIS_001662,15-11-2024,Desktop,Referral,India
+VIS_001663,11-12-2025,Mobile,Social,United Kingdom
+VIS_001664,29-07-2025,Desktop,Paid Search,India
+VIS_001665,04-06-2024,Tablet,Social,United States
+VIS_001666,23-08-2024,Mobile,Paid Search,India
+VIS_001667,02-09-2024,Desktop,Paid Search,Singapore
+VIS_001668,14-11-2024,Desktop,Paid Search,United Kingdom
+VIS_001669,12-08-2025,Mobile,Organic Search,Australia
+VIS_001670,01-04-2025,Mobile,Direct,United Kingdom
+VIS_001671,28-11-2024,Mobile,Social,United States
+VIS_001672,05-07-2024,Mobile,Paid Search,India
+VIS_001673,27-10-2025,Mobile,Paid Search,United Kingdom
+VIS_001674,08-04-2025,Desktop,Paid Search,United States
+VIS_001675,22-05-2024,Mobile,Email,Australia
+VIS_001676,15-08-2025,Desktop,Direct,Australia
+VIS_001677,22-02-2024,Tablet,Direct,Singapore
+VIS_001678,21-10-2025,Desktop,Social,United Kingdom
+VIS_001679,23-05-2024,Mobile,Social,Singapore
+VIS_001680,29-12-2025,Desktop,Direct,Singapore
+VIS_001681,02-12-2025,Tablet,Social,United States
+VIS_001682,16-11-2024,Desktop,Paid Search,Australia
+VIS_001683,12-08-2024,Mobile,Social,Singapore
+VIS_001684,22-04-2024,Desktop,Paid Search,India
+VIS_001685,02-06-2025,Mobile,Referral,Singapore
+VIS_001686,21-08-2024,Mobile,Direct,India
+VIS_001687,30-12-2024,Tablet,Social,Australia
+VIS_001688,01-07-2024,Desktop,Email,Australia
+VIS_001689,12-11-2025,Tablet,Email,Singapore
+VIS_001690,16-07-2025,Desktop,Email,India
+VIS_001691,15-12-2024,Tablet,Organic Search,United Kingdom
+VIS_001692,22-10-2025,Desktop,Direct,Australia
+VIS_001693,21-05-2024,Tablet,Direct,United Kingdom
+VIS_001694,16-09-2024,Desktop,Paid Search,United States
+VIS_001695,23-07-2025,Tablet,Social,Singapore
+VIS_001696,11-08-2024,Mobile,Organic Search,India
+VIS_001697,28-09-2025,Tablet,Social,United States
+VIS_001698,31-01-2025,Desktop,Email,Australia
+VIS_001699,12-07-2025,Mobile,Organic Search,Australia
+VIS_001700,29-06-2025,Mobile,Direct,United Kingdom
+VIS_001701,08-03-2025,Tablet,Direct,Singapore
+VIS_001702,17-06-2025,Desktop,Organic Search,United States
+VIS_001703,19-12-2024,Tablet,Organic Search,Singapore
+VIS_001704,05-02-2025,Desktop,Email,Singapore
+VIS_001705,19-03-2024,Desktop,Referral,Singapore
+VIS_001706,24-04-2024,Desktop,Paid Search,United Kingdom
+VIS_001707,28-04-2024,Desktop,Referral,India
+VIS_001708,28-09-2024,Mobile,Social,United Kingdom
+VIS_001709,24-12-2024,Desktop,Direct,India
+VIS_001710,11-07-2024,Desktop,Organic Search,United Kingdom
+VIS_001711,14-03-2025,Tablet,Direct,United Kingdom
+VIS_001712,27-02-2024,Mobile,Social,Singapore
+VIS_001713,19-06-2024,Mobile,Direct,United Kingdom
+VIS_001714,19-12-2024,Desktop,Social,United States
+VIS_001715,07-03-2024,Tablet,Organic Search,United States
+VIS_001716,27-02-2025,Tablet,Referral,United States
+VIS_001717,27-11-2025,Tablet,Organic Search,Australia
+VIS_001718,07-03-2024,Tablet,Social,India
+VIS_001719,17-01-2025,Tablet,Organic Search,United States
+VIS_001720,03-03-2025,Desktop,Email,United Kingdom
+VIS_001721,20-03-2024,Mobile,Direct,Australia
+VIS_001722,31-05-2024,Tablet,Referral,Singapore
+VIS_001723,23-09-2024,Mobile,Social,Singapore
+VIS_001724,23-04-2025,Tablet,Referral,India
+VIS_001725,17-07-2024,Desktop,Email,United States
+VIS_001726,22-04-2024,Mobile,Email,Singapore
+VIS_001727,08-09-2025,Tablet,Email,India
+VIS_001728,19-05-2025,Desktop,Referral,Singapore
+VIS_001729,22-12-2025,Desktop,Organic Search,United Kingdom
+VIS_001730,22-04-2024,Tablet,Organic Search,United States
+VIS_001731,10-09-2025,Tablet,Social,United Kingdom
+VIS_001732,01-07-2024,Desktop,Referral,India
+VIS_001733,03-06-2025,Tablet,Social,Singapore
+VIS_001734,28-01-2024,Desktop,Referral,United Kingdom
+VIS_001735,21-01-2025,Desktop,Paid Search,Australia
+VIS_001736,23-08-2025,Desktop,Email,Singapore
+VIS_001737,18-05-2024,Tablet,Social,Singapore
+VIS_001738,09-10-2024,Desktop,Social,Australia
+VIS_001739,01-10-2025,Mobile,Social,Singapore
+VIS_001740,24-03-2025,Desktop,Direct,United Kingdom
+VIS_001741,13-09-2024,Desktop,Referral,United States
+VIS_001742,25-06-2025,Desktop,Organic Search,United Kingdom
+VIS_001743,05-12-2024,Mobile,Email,United Kingdom
+VIS_001744,15-03-2024,Mobile,Organic Search,United States
+VIS_001745,13-01-2024,Desktop,Direct,United States
+VIS_001746,30-09-2024,Mobile,Email,India
+VIS_001747,18-02-2024,Mobile,Paid Search,India
+VIS_001748,23-11-2024,Mobile,Direct,India
+VIS_001749,03-06-2024,Mobile,Social,India
+VIS_001750,15-07-2025,Mobile,Email,United Kingdom
+VIS_001751,04-04-2025,Desktop,Paid Search,India
+VIS_001752,10-12-2024,Tablet,Email,Singapore
+VIS_001753,23-01-2024,Desktop,Social,India
+VIS_001754,01-09-2024,Mobile,Direct,United Kingdom
+VIS_001755,01-05-2024,Mobile,Paid Search,Australia
+VIS_001756,17-04-2024,Tablet,Referral,United Kingdom
+VIS_001757,18-10-2024,Tablet,Referral,United Kingdom
+VIS_001758,06-02-2024,Tablet,Email,United Kingdom
+VIS_001759,03-05-2025,Mobile,Organic Search,United Kingdom
+VIS_001760,16-03-2025,Desktop,Referral,Australia
+VIS_001761,19-01-2024,Desktop,Direct,United States
+VIS_001762,05-03-2024,Desktop,Paid Search,Singapore
+VIS_001763,02-07-2024,Desktop,Direct,Singapore
+VIS_001764,04-09-2024,Mobile,Social,United States
+VIS_001765,28-11-2025,Desktop,Direct,United Kingdom
+VIS_001766,04-12-2025,Tablet,Referral,India
+VIS_001767,01-10-2024,Mobile,Organic Search,Singapore
+VIS_001768,13-01-2024,Tablet,Email,Singapore
+VIS_001769,13-10-2024,Tablet,Direct,India
+VIS_001770,24-11-2025,Mobile,Referral,Australia
+VIS_001771,24-12-2024,Tablet,Social,United Kingdom
+VIS_001772,15-09-2024,Desktop,Direct,United States
+VIS_001773,08-12-2025,Desktop,Email,United States
+VIS_001774,14-03-2024,Mobile,Direct,Australia
+VIS_001775,22-02-2024,Mobile,Paid Search,India
+VIS_001776,18-08-2024,Mobile,Organic Search,India
+VIS_001777,12-05-2025,Tablet,Organic Search,United Kingdom
+VIS_001778,23-06-2024,Desktop,Email,United Kingdom
+VIS_001779,10-04-2025,Tablet,Organic Search,United Kingdom
+VIS_001780,16-10-2025,Mobile,Social,Australia
+VIS_001781,22-08-2024,Tablet,Social,Singapore
+VIS_001782,25-09-2024,Mobile,Direct,United States
+VIS_001783,01-08-2025,Tablet,Email,Singapore
+VIS_001784,19-08-2024,Desktop,Organic Search,United Kingdom
+VIS_001785,30-06-2025,Tablet,Social,India
+VIS_001786,14-04-2024,Desktop,Email,Singapore
+VIS_001787,17-09-2025,Desktop,Email,United Kingdom
+VIS_001788,25-12-2024,Mobile,Referral,Australia
+VIS_001789,14-12-2025,Tablet,Email,Australia
+VIS_001790,17-03-2025,Tablet,Direct,Australia
+VIS_001791,06-03-2024,Desktop,Referral,India
+VIS_001792,05-07-2024,Desktop,Email,United States
+VIS_001793,07-08-2025,Mobile,Organic Search,India
+VIS_001794,07-04-2025,Tablet,Paid Search,United States
+VIS_001795,22-06-2025,Mobile,Social,India
+VIS_001796,30-12-2025,Tablet,Email,Australia
+VIS_001797,06-01-2024,Mobile,Organic Search,United Kingdom
+VIS_001798,26-11-2025,Desktop,Email,United States
+VIS_001799,04-03-2025,Desktop,Direct,Australia
+VIS_001800,14-11-2025,Tablet,Referral,United States

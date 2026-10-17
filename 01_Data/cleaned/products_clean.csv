@@ -1,0 +1,181 @@
+﻿product_id,product_name,category,brand,unit_cost,unit_price,active_flag
+PROD_00001,Lotion 001,Beauty,BrightPath,13440.24,23084.08,1
+PROD_00002,Lotion 002,Beauty,BrightPath,10588.28,20708.96,1
+PROD_00003,Speaker 003,Electronics,NovaWorks,10412.19,14518.46,1
+PROD_00004,Sunscreen 004,Beauty,Northstar,13814.89,21317.27,1
+PROD_00005,Oil 005,Grocery,Northstar,3270.67,7063.02,1
+PROD_00006,Wallet 006,Fashion,BrightPath,6665.07,9965.49,0
+PROD_00007,Coffee 007,Grocery,BrightPath,6016.56,12696.96,1
+PROD_00008,Cereal 008,Grocery,Everyday Co.,2648.28,3812.78,0
+PROD_00009,Coffee 009,Grocery,UrbanLeaf,10754.81,18135.96,1
+PROD_00010,Chair 010,Home,Northstar,1399.86,1887.59,1
+PROD_00011,Speaker 011,Electronics,NovaWorks,2778.43,4575.14,0
+PROD_00012,Speaker 012,Electronics,Northstar,4884.88,9264.57,0
+PROD_00013,Wallet 013,Fashion,UrbanLeaf,3699.04,6975.48,1
+PROD_00014,Lotion 014,Beauty,Everyday Co.,9488.48,15107.93,1
+PROD_00015,Lamp 015,Home,UrbanLeaf,5219.08,7493.27,1
+PROD_00016,Watch 016,Fashion,NovaWorks,11693.1,15090.25,1
+PROD_00017,Bottle 017,Home,Northstar,1306.68,1760.7,1
+PROD_00018,Cookware 018,Home,Northstar,10934.89,21305.51,1
+PROD_00019,Moisturizer 019,Beauty,UrbanLeaf,3587.25,5481.11,1
+PROD_00020,Sunscreen 020,Beauty,Northstar,7019.36,10410.45,1
+PROD_00021,Sneakers 021,Fashion,Everyday Co.,7988.17,13134.4,1
+PROD_00022,Cleanser 022,Beauty,UrbanLeaf,738.65,1065.02,1
+PROD_00023,Perfume 023,Beauty,Northstar,10969.2,20484.86,0
+PROD_00024,Sneakers 024,Fashion,UrbanLeaf,5575.68,10123.3,1
+PROD_00025,Speaker 025,Electronics,BrightPath,9597.01,13609.47,1
+PROD_00026,Monitor 026,Electronics,Northstar,13252.15,24121.52,1
+PROD_00027,Cereal 027,Grocery,Northstar,5376.65,7675.67,0
+PROD_00028,Watch 028,Fashion,NovaWorks,10206.62,14699.1,0
+PROD_00029,Cookware 029,Home,NovaWorks,10840.73,22708.34,1
+PROD_00030,Rice 030,Grocery,NovaWorks,4591.05,10091.63,1
+PROD_00031,Cereal 031,Grocery,BrightPath,10105.42,15268.26,1
+PROD_00032,Wallet 032,Fashion,NovaWorks,6983.69,14745.75,1
+PROD_00033,Oil 033,Grocery,Everyday Co.,3260.34,4275.79,1
+PROD_00034,Sneakers 034,Fashion,UrbanLeaf,11539.89,16646.29,0
+PROD_00035,Monitor 035,Electronics,UrbanLeaf,11230.14,21084.31,1
+PROD_00036,Keyboard 036,Electronics,Northstar,1180.61,2356.47,1
+PROD_00037,Wallet 037,Fashion,Northstar,12749.38,17882.92,1
+PROD_00038,Cereal 038,Grocery,UrbanLeaf,5660.35,11959.47,1
+PROD_00039,Cleanser 039,Beauty,BrightPath,3136.48,5225.94,1
+PROD_00040,Mouse 040,Electronics,NovaWorks,8416.29,11769.05,1
+PROD_00041,Coffee 041,Grocery,BrightPath,9184.38,19898.26,1
+PROD_00042,Webcam 042,Electronics,NovaWorks,11881.53,18075.34,1
+PROD_00043,Snacks 043,Grocery,NovaWorks,9015.46,16893.84,0
+PROD_00044,Mouse 044,Electronics,UrbanLeaf,14306.26,22080.66,0
+PROD_00045,Headphones 045,Electronics,Everyday Co.,13490.72,18551.52,0
+PROD_00046,Cereal 046,Grocery,Northstar,6184.16,13453.06,1
+PROD_00047,Bottle 047,Home,BrightPath,3599.17,5099.16,1
+PROD_00048,Storage Box 048,Home,Northstar,4221.13,8989.4,1
+PROD_00049,Moisturizer 049,Beauty,Everyday Co.,15752.98,20304.13,1
+PROD_00050,Mouse 050,Electronics,Northstar,9308.93,16785.27,0
+PROD_00051,Chair 051,Home,BrightPath,6627.54,10276.07,1
+PROD_00052,Moisturizer 052,Beauty,Everyday Co.,9252.92,12262.8,1
+PROD_00053,Jacket 053,Fashion,Everyday Co.,15111.51,22846.46,1
+PROD_00054,Shampoo 054,Beauty,Everyday Co.,3889.65,6744.11,1
+PROD_00055,Webcam 055,Electronics,Northstar,7680.86,14465.07,0
+PROD_00056,Moisturizer 056,Beauty,UrbanLeaf,837.92,1556.98,1
+PROD_00057,Chair 057,Home,UrbanLeaf,13737.82,21353.25,1
+PROD_00058,Chair 058,Home,Everyday Co.,11864.71,19492.93,0
+PROD_00059,Cereal 059,Grocery,Northstar,5614.41,8091.21,1
+PROD_00060,Lamp 060,Home,Northstar,14551.2,21015.85,1
+PROD_00061,Speaker 061,Electronics,BrightPath,7969.96,15808.56,0
+PROD_00062,Oil 062,Grocery,UrbanLeaf,6491.54,10150.61,1
+PROD_00063,Coffee 063,Grocery,BrightPath,12927.67,19181.73,1
+PROD_00064,Speaker 064,Electronics,UrbanLeaf,566.07,917.95,1
+PROD_00065,Tea 065,Grocery,UrbanLeaf,7532.63,15749.39,0
+PROD_00066,Monitor 066,Electronics,Northstar,10013.83,18632.93,1
+PROD_00067,Wallet 067,Fashion,Northstar,15866.93,21860.8,0
+PROD_00068,Sneakers 068,Fashion,UrbanLeaf,2206.34,3376.45,0
+PROD_00069,Shampoo 069,Beauty,Everyday Co.,3323.93,6841.53,1
+PROD_00070,Keyboard 070,Electronics,Northstar,6958.86,9559.46,0
+PROD_00071,Webcam 071,Electronics,BrightPath,12863.81,22966.74,1
+PROD_00072,Backpack 072,Fashion,Northstar,6627.94,9585.54,1
+PROD_00073,Lamp 073,Home,Everyday Co.,9053.67,12365.4,1
+PROD_00074,Cookware 074,Home,NovaWorks,12189.37,21310.35,1
+PROD_00075,Tea 075,Grocery,Northstar,7534.17,12623.29,1
+PROD_00076,Watch 076,Fashion,BrightPath,839.2,1226.62,0
+PROD_00077,Rice 077,Grocery,NovaWorks,10632.83,16666.29,1
+PROD_00078,Jacket 078,Fashion,NovaWorks,12002.29,15788.22,1
+PROD_00079,Wallet 079,Fashion,Everyday Co.,744.76,1238.87,1
+PROD_00080,Storage Box 080,Home,NovaWorks,2357.15,3191.88,1
+PROD_00081,Bottle 081,Home,BrightPath,12717.53,20405.7,1
+PROD_00082,Snacks 082,Grocery,NovaWorks,8464.17,16120.97,1
+PROD_00083,Bedsheet 083,Home,BrightPath,6756.99,14233.04,0
+PROD_00084,Bottle 084,Home,BrightPath,1504.11,2862.51,1
+PROD_00085,Perfume 085,Beauty,NovaWorks,1969.46,2969.43,1
+PROD_00086,Watch 086,Fashion,UrbanLeaf,15586.28,23048.94,1
+PROD_00087,Sneakers 087,Fashion,UrbanLeaf,9472.8,14825.64,0
+PROD_00088,Shampoo 088,Beauty,NovaWorks,11337.09,14912.86,0
+PROD_00089,Cookware 089,Home,Northstar,11416.48,18675.14,0
+PROD_00090,Speaker 090,Electronics,BrightPath,9996.86,20209.22,1
+PROD_00091,Keyboard 091,Electronics,UrbanLeaf,13421.77,17345.67,1
+PROD_00092,Lotion 092,Beauty,NovaWorks,12008.55,24634.01,0
+PROD_00093,Storage Box 093,Home,Everyday Co.,10580.18,13831,1
+PROD_00094,Wallet 094,Fashion,BrightPath,3926.71,6042.17,1
+PROD_00095,Coffee 095,Grocery,UrbanLeaf,6464.55,11687.75,1
+PROD_00096,Perfume 096,Beauty,UrbanLeaf,3540.55,7117.18,1
+PROD_00097,Rice 097,Grocery,BrightPath,7013.09,11989.82,0
+PROD_00098,Sunscreen 098,Beauty,Everyday Co.,12353.05,21537.23,0
+PROD_00099,Snacks 099,Grocery,NovaWorks,14244.61,20491.11,1
+PROD_00100,Wallet 100,Fashion,UrbanLeaf,663.93,949.7,1
+PROD_00101,Sunscreen 101,Beauty,Northstar,11351.92,16359.15,1
+PROD_00102,Tea 102,Grocery,UrbanLeaf,9949.07,19891.5,1
+PROD_00103,Sneakers 103,Fashion,NovaWorks,6983.89,14612.07,1
+PROD_00104,Watch 104,Fashion,BrightPath,14649.32,21909.1,1
+PROD_00105,Webcam 105,Electronics,NovaWorks,9881.26,14407.49,1
+PROD_00106,Cereal 106,Grocery,Northstar,11003.11,14319.14,0
+PROD_00107,Chair 107,Home,NovaWorks,8213.54,11775.95,1
+PROD_00108,Cookware 108,Home,BrightPath,4662.21,6889.58,1
+PROD_00109,Webcam 109,Electronics,Everyday Co.,8763.36,18759.16,0
+PROD_00110,Wallet 110,Fashion,Northstar,12205.05,22417.11,1
+PROD_00111,Snacks 111,Grocery,BrightPath,9879.21,20692.91,0
+PROD_00112,Cookware 112,Home,UrbanLeaf,3969.51,8777.3,0
+PROD_00113,Perfume 113,Beauty,Everyday Co.,1427.21,2692.31,1
+PROD_00114,Cereal 114,Grocery,NovaWorks,4942.89,7633.27,1
+PROD_00115,Lotion 115,Beauty,UrbanLeaf,6488.14,13702.23,1
+PROD_00116,Webcam 116,Electronics,Everyday Co.,12920.19,22988.63,1
+PROD_00117,Watch 117,Fashion,NovaWorks,2289.73,3445.42,1
+PROD_00118,Headphones 118,Electronics,Northstar,9397.23,13454.55,0
+PROD_00119,Jacket 119,Fashion,Northstar,4667.1,6088.14,1
+PROD_00120,Cookware 120,Home,Everyday Co.,2999.71,4140.05,1
+PROD_00121,Rice 121,Grocery,BrightPath,2222.85,4248.66,1
+PROD_00122,Snacks 122,Grocery,BrightPath,7738.89,13628.77,1
+PROD_00123,Sunscreen 123,Beauty,UrbanLeaf,2006.45,3287.92,0
+PROD_00124,Cereal 124,Grocery,UrbanLeaf,2694.03,5215.2,0
+PROD_00125,Speaker 125,Electronics,BrightPath,2802.75,6062.64,0
+PROD_00126,T-Shirt 126,Fashion,NovaWorks,4536.53,8682.26,1
+PROD_00127,Mouse 127,Electronics,Northstar,12676.31,18864.09,0
+PROD_00128,Webcam 128,Electronics,NovaWorks,6815.24,12785.92,1
+PROD_00129,Backpack 129,Fashion,UrbanLeaf,10898.47,22251.57,1
+PROD_00130,Monitor 130,Electronics,NovaWorks,5434.23,7047.27,1
+PROD_00131,Lotion 131,Beauty,Everyday Co.,1775.35,2570.65,0
+PROD_00132,Jacket 132,Fashion,Everyday Co.,9850.82,18846.52,0
+PROD_00133,Rice 133,Grocery,NovaWorks,313.65,486.55,0
+PROD_00134,Rice 134,Grocery,Everyday Co.,4011.61,5365.55,0
+PROD_00135,Watch 135,Fashion,UrbanLeaf,3127.64,6336.26,1
+PROD_00136,Bedsheet 136,Home,BrightPath,600.7,790.98,1
+PROD_00137,Perfume 137,Beauty,NovaWorks,10306.2,22306.91,0
+PROD_00138,Coffee 138,Grocery,UrbanLeaf,7763.62,10814.46,1
+PROD_00139,Watch 139,Fashion,UrbanLeaf,7957.74,11132.25,1
+PROD_00140,Bottle 140,Home,NovaWorks,1694.61,2286.7,1
+PROD_00141,Cleanser 141,Beauty,Everyday Co.,13979.79,21999.19,0
+PROD_00142,Mouse 142,Electronics,BrightPath,3148.06,5062.06,1
+PROD_00143,Tea 143,Grocery,Everyday Co.,17217.15,22604.63,1
+PROD_00144,Jacket 144,Fashion,BrightPath,6677.12,8774.71,1
+PROD_00145,Lotion 145,Beauty,BrightPath,6948.38,10169.91,1
+PROD_00146,Cleanser 146,Beauty,BrightPath,9740.16,20969.83,1
+PROD_00147,Oil 147,Grocery,NovaWorks,13440.99,18901.34,0
+PROD_00148,T-Shirt 148,Fashion,NovaWorks,4656.06,10295.02,1
+PROD_00149,Mouse 149,Electronics,Northstar,4298.97,6202.67,1
+PROD_00150,Tea 150,Grocery,Everyday Co.,7962.5,16063.93,1
+PROD_00151,Cleanser 151,Beauty,UrbanLeaf,13378.84,17493.5,1
+PROD_00152,Cookware 152,Home,NovaWorks,7046.69,13058.85,1
+PROD_00153,Storage Box 153,Home,Northstar,11733.3,19724.31,0
+PROD_00154,Jacket 154,Fashion,BrightPath,6750.69,10758.33,1
+PROD_00155,Coffee 155,Grocery,Everyday Co.,7028.04,14724.41,1
+PROD_00156,Jacket 156,Fashion,UrbanLeaf,11786.89,20518.58,1
+PROD_00157,Sneakers 157,Fashion,NovaWorks,2928.7,4172.52,1
+PROD_00158,Speaker 158,Electronics,BrightPath,7050.29,11009.9,1
+PROD_00159,Oil 159,Grocery,BrightPath,5381.38,9515.04,1
+PROD_00160,Cookware 160,Home,NovaWorks,8459.91,15850.06,0
+PROD_00161,Wallet 161,Fashion,NovaWorks,1087.42,1836.18,1
+PROD_00162,Cookware 162,Home,UrbanLeaf,17763.42,23482.48,1
+PROD_00163,Jacket 163,Fashion,Northstar,11010.72,19687.52,1
+PROD_00164,Oil 164,Grocery,NovaWorks,7383.68,12633.23,1
+PROD_00165,Backpack 165,Fashion,UrbanLeaf,2273.67,4583.13,1
+PROD_00166,Jacket 166,Fashion,UrbanLeaf,6632.34,10963.89,1
+PROD_00167,Perfume 167,Beauty,UrbanLeaf,1572.22,2142.29,1
+PROD_00168,Rice 168,Grocery,BrightPath,106.83,148.58,0
+PROD_00169,Moisturizer 169,Beauty,Northstar,2104.65,4464.19,1
+PROD_00170,Bottle 170,Home,NovaWorks,4085.93,7148.78,1
+PROD_00171,Monitor 171,Electronics,NovaWorks,2193.92,3467.84,1
+PROD_00172,T-Shirt 172,Fashion,Everyday Co.,9555.76,12750.25,0
+PROD_00173,Monitor 173,Electronics,NovaWorks,4138.73,7849.14,0
+PROD_00174,Keyboard 174,Electronics,BrightPath,11013.13,15235.36,1
+PROD_00175,Cookware 175,Home,Northstar,10140.19,15681.36,1
+PROD_00176,Speaker 176,Electronics,UrbanLeaf,1320.83,2163.91,1
+PROD_00177,Moisturizer 177,Beauty,Everyday Co.,12114.03,17720.08,0
+PROD_00178,Cleanser 178,Beauty,UrbanLeaf,9159.77,19044.32,1
+PROD_00179,Chair 179,Home,Everyday Co.,6228.31,9588.29,1
+PROD_00180,Bedsheet 180,Home,UrbanLeaf,13623.11,21486.11,1
